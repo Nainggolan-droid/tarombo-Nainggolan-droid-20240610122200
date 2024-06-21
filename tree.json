@@ -12253,6 +12253,9 @@
       "childRefs": [
         {
           "ref": "I1677*a5f16a87-3549-478d-b717-8dea9f2cf5e6"
+        },
+        {
+          "ref": "I1678*5671189a-bc16-418c-a73b-7027dd8a7ada"
         }
       ],
       "husbandRefs": [
@@ -47225,6 +47228,25 @@
       "names": [
         {
           "value": "A.Tiomsi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
+        }
+      ],
+      "id": "I1678*5671189a-bc16-418c-a73b-7027dd8a7ada",
+      "names": [
+        {
+          "value": "A Karsi //"
         }
       ],
       "eventsFacts": [
