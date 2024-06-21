@@ -12420,6 +12420,9 @@
       "childRefs": [
         {
           "ref": "I1705*bcea7d82-5807-4cf0-8eaa-19cc1e5a3e99"
+        },
+        {
+          "ref": "I1706*fb662734-f970-4ef4-8467-983ff0230e0e"
         }
       ],
       "husbandRefs": [
@@ -47938,6 +47941,25 @@
       "names": [
         {
           "value": "Simpan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F747*86b28c53-429e-494f-9f7f-72f9cccc2f28"
+        }
+      ],
+      "id": "I1706*fb662734-f970-4ef4-8467-983ff0230e0e",
+      "names": [
+        {
+          "value": "Ranto //"
         }
       ],
       "eventsFacts": [
