@@ -12285,6 +12285,9 @@
       "childRefs": [
         {
           "ref": "I1681*171e6996-764b-44e0-bbfc-c49f742b3256"
+        },
+        {
+          "ref": "I1682*49cae8f3-9bcd-4d21-9e07-2d817a436ace"
         }
       ],
       "husbandRefs": [
@@ -47337,6 +47340,25 @@
       "names": [
         {
           "value": "Viktor //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F740*c0985671-075b-4bf5-bea1-cad86edb269a"
+        }
+      ],
+      "id": "I1682*49cae8f3-9bcd-4d21-9e07-2d817a436ace",
+      "names": [
+        {
+          "value": "Ian //"
         }
       ],
       "eventsFacts": [
