@@ -47866,13 +47866,17 @@
       "id": "I1701*c9b66b0b-ce65-4eae-a404-40521bf31778",
       "names": [
         {
-          "value": "Osman //"
+          "value": "connector"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "tag": "_CONN",
+          "value": "Nainggolan-droid/tarombo-Nainggolan-droid-20240621145533"
         }
       ]
     },
