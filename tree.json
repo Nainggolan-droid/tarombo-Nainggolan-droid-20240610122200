@@ -12426,6 +12426,9 @@
         },
         {
           "ref": "I1707*7c7615b7-dceb-4a82-b8d2-e20d3be46632"
+        },
+        {
+          "ref": "I1708*044f99d0-33c3-4819-bd17-afeeedcdf947"
         }
       ],
       "husbandRefs": [
@@ -47982,6 +47985,25 @@
       "names": [
         {
           "value": "Deling //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F747*86b28c53-429e-494f-9f7f-72f9cccc2f28"
+        }
+      ],
+      "id": "I1708*044f99d0-33c3-4819-bd17-afeeedcdf947",
+      "names": [
+        {
+          "value": "Hadim //"
         }
       ],
       "eventsFacts": [
