@@ -12408,6 +12408,9 @@
         },
         {
           "ref": "I1702*48889a37-a053-43fb-a842-bfea05e98c2d"
+        },
+        {
+          "ref": "I1703*86def02b-14a2-41b5-9ef4-b7c8a1ff23b2"
         }
       ],
       "husbandRefs": [
@@ -47883,6 +47886,25 @@
       "names": [
         {
           "value": "Kaman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F746*ca215e0a-012e-43f8-b220-2ae800dc4ee0"
+        }
+      ],
+      "id": "I1703*86def02b-14a2-41b5-9ef4-b7c8a1ff23b2",
+      "names": [
+        {
+          "value": "Selman //"
         }
       ],
       "eventsFacts": [
