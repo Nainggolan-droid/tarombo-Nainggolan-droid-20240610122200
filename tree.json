@@ -12323,6 +12323,9 @@
         },
         {
           "ref": "I1687*95858af4-3ea2-402e-b44b-6bb7cbcdc4ab"
+        },
+        {
+          "ref": "I1688*f93a84bd-2f27-4c2a-b0be-ac4de3d67581"
         }
       ],
       "husbandRefs": [
@@ -47493,6 +47496,25 @@
       "names": [
         {
           "value": "Pareman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F742*5ac48989-9748-49c7-a818-099087428651"
+        }
+      ],
+      "id": "I1688*f93a84bd-2f27-4c2a-b0be-ac4de3d67581",
+      "names": [
+        {
+          "value": "Jahiram //"
         }
       ],
       "eventsFacts": [
