@@ -12314,6 +12314,9 @@
       "childRefs": [
         {
           "ref": "I1684*285ad4a9-bfc1-4633-a737-28abd23ca697"
+        },
+        {
+          "ref": "I1685*becc621b-90d5-4ee3-b96b-641ccf575d92"
         }
       ],
       "husbandRefs": [
@@ -47433,6 +47436,25 @@
       "names": [
         {
           "value": "A Jabarus //"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F742*5ac48989-9748-49c7-a818-099087428651"
+        }
+      ],
+      "id": "I1685*becc621b-90d5-4ee3-b96b-641ccf575d92",
+      "names": [
+        {
+          "value": "A Rumada //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
