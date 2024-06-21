@@ -12264,6 +12264,22 @@
         }
       ],
       "id": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1679*5ad51675-ed1c-4488-9a84-50288edbef2d"
+        },
+        {
+          "ref": "I1680*b033526f-cdc7-4bef-9d72-22bde08eb82f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1677*a5f16a87-3549-478d-b717-8dea9f2cf5e6"
+        }
+      ],
+      "id": "F739*65f1bba6-27b7-448c-a4ce-8ed4f201b0b8"
     }
   ],
   "head": {
@@ -47224,6 +47240,11 @@
           "ref": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
         }
       ],
+      "fams": [
+        {
+          "ref": "F739*65f1bba6-27b7-448c-a4ce-8ed4f201b0b8"
+        }
+      ],
       "id": "I1677*a5f16a87-3549-478d-b717-8dea9f2cf5e6",
       "names": [
         {
@@ -47253,6 +47274,38 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F739*65f1bba6-27b7-448c-a4ce-8ed4f201b0b8"
+        }
+      ],
+      "id": "I1679*5ad51675-ed1c-4488-9a84-50288edbef2d",
+      "names": [
+        {
+          "value": "Mangalap //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F739*65f1bba6-27b7-448c-a4ce-8ed4f201b0b8"
+        }
+      ],
+      "id": "I1680*b033526f-cdc7-4bef-9d72-22bde08eb82f",
+      "names": [
+        {
+          "value": "Mangoloi //"
         }
       ]
     }
