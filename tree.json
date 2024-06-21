@@ -4538,9 +4538,6 @@
       "childRefs": [
         {
           "ref": "I635*41a0276e-7339-4da7-86fc-ec50636af9e6"
-        },
-        {
-          "ref": "I636*51c82ea8-f75f-480d-9bcc-1eb97c34321d"
         }
       ],
       "husbandRefs": [
@@ -12394,11 +12391,7 @@
           "ref": "I1700*63bf212d-66f3-4b73-a702-1d40ad7d461e"
         }
       ],
-      "husbandRefs": [
-        {
-          "ref": "I636*51c82ea8-f75f-480d-9bcc-1eb97c34321d"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F745*4940ab63-c439-4b52-95e0-5f13a25c8f7d"
     },
     {
@@ -25870,30 +25863,6 @@
       "names": [
         {
           "value": "Bungkulan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F265*521d768a-64cf-4e95-8328-2c4284bce431"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F745*4940ab63-c439-4b52-95e0-5f13a25c8f7d"
-        }
-      ],
-      "id": "I636*51c82ea8-f75f-480d-9bcc-1eb97c34321d",
-      "names": [
-        {
-          "value": "A.Simpan //"
         }
       ],
       "eventsFacts": [
