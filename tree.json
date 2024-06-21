@@ -12280,6 +12280,19 @@
         }
       ],
       "id": "F739*65f1bba6-27b7-448c-a4ce-8ed4f201b0b8"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1681*171e6996-764b-44e0-bbfc-c49f742b3256"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1680*b033526f-cdc7-4bef-9d72-22bde08eb82f"
+        }
+      ],
+      "id": "F740*c0985671-075b-4bf5-bea1-cad86edb269a"
     }
   ],
   "head": {
@@ -47302,10 +47315,34 @@
           "ref": "F739*65f1bba6-27b7-448c-a4ce-8ed4f201b0b8"
         }
       ],
+      "fams": [
+        {
+          "ref": "F740*c0985671-075b-4bf5-bea1-cad86edb269a"
+        }
+      ],
       "id": "I1680*b033526f-cdc7-4bef-9d72-22bde08eb82f",
       "names": [
         {
           "value": "Mangoloi //"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F740*c0985671-075b-4bf5-bea1-cad86edb269a"
+        }
+      ],
+      "id": "I1681*171e6996-764b-44e0-bbfc-c49f742b3256",
+      "names": [
+        {
+          "value": "Viktor //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
