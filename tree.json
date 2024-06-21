@@ -12480,6 +12480,9 @@
       "childRefs": [
         {
           "ref": "I1715*1d642830-14de-4430-9c26-97164e069aeb"
+        },
+        {
+          "ref": "I1716*313b164e-bcbe-4320-a905-855f810bcfd5"
         }
       ],
       "husbandRefs": [
@@ -48203,6 +48206,25 @@
       "names": [
         {
           "value": "Alfonsus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F750*95bd87d5-4566-4cc9-a959-18f30813d4bc"
+        }
+      ],
+      "id": "I1716*313b164e-bcbe-4320-a905-855f810bcfd5",
+      "names": [
+        {
+          "value": "Hariando //"
         }
       ],
       "eventsFacts": [
