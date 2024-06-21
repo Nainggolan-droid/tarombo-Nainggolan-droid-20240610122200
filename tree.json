@@ -12440,6 +12440,19 @@
         }
       ],
       "id": "F747*86b28c53-429e-494f-9f7f-72f9cccc2f28"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1710*93de4f74-1e4a-4e14-9345-4282e6fbdd89"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1707*7c7615b7-dceb-4a82-b8d2-e20d3be46632"
+        }
+      ],
+      "id": "F748*15060ee1-95f8-4ed7-9e80-4a4bec45aa55"
     }
   ],
   "head": {
@@ -47984,6 +47997,11 @@
           "ref": "F747*86b28c53-429e-494f-9f7f-72f9cccc2f28"
         }
       ],
+      "fams": [
+        {
+          "ref": "F748*15060ee1-95f8-4ed7-9e80-4a4bec45aa55"
+        }
+      ],
       "id": "I1707*7c7615b7-dceb-4a82-b8d2-e20d3be46632",
       "names": [
         {
@@ -48026,6 +48044,25 @@
       "names": [
         {
           "value": "Pessan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F748*15060ee1-95f8-4ed7-9e80-4a4bec45aa55"
+        }
+      ],
+      "id": "I1710*93de4f74-1e4a-4e14-9345-4282e6fbdd89",
+      "names": [
+        {
+          "value": "Osman //"
         }
       ],
       "eventsFacts": [
