@@ -12364,6 +12364,9 @@
         },
         {
           "ref": "I1694*930e1781-6bd5-49a4-97df-2cd917d9515b"
+        },
+        {
+          "ref": "I1695*1388ca47-e5bf-41ce-a379-d4f0c3fecf1c"
         }
       ],
       "husbandRefs": [
@@ -47683,6 +47686,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F744*4decf226-9f85-4fea-958a-ea75a6154f74"
+        }
+      ],
+      "id": "I1695*1388ca47-e5bf-41ce-a379-d4f0c3fecf1c",
+      "names": [
+        {
+          "value": "Doni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
