@@ -12342,6 +12342,9 @@
       "childRefs": [
         {
           "ref": "I1690*089172ce-8300-4c6e-9494-42c109ffcf4d"
+        },
+        {
+          "ref": "I1691*641ee8c7-379c-44aa-a294-67caa5515398"
         }
       ],
       "husbandRefs": [
@@ -47574,6 +47577,25 @@
       "names": [
         {
           "value": "Dapot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F743*61b7a174-22ab-4f9a-9418-06c1f54c5581"
+        }
+      ],
+      "id": "I1691*641ee8c7-379c-44aa-a294-67caa5515398",
+      "names": [
+        {
+          "value": "Lambok //"
         }
       ],
       "eventsFacts": [
