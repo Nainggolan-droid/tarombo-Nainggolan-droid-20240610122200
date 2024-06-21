@@ -12320,6 +12320,9 @@
         },
         {
           "ref": "I1686*308c543f-71d3-4750-a0c1-cec19f6c90ea"
+        },
+        {
+          "ref": "I1687*95858af4-3ea2-402e-b44b-6bb7cbcdc4ab"
         }
       ],
       "husbandRefs": [
@@ -47471,6 +47474,25 @@
       "names": [
         {
           "value": "Mangapian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F742*5ac48989-9748-49c7-a818-099087428651"
+        }
+      ],
+      "id": "I1687*95858af4-3ea2-402e-b44b-6bb7cbcdc4ab",
+      "names": [
+        {
+          "value": "Pareman //"
         }
       ],
       "eventsFacts": [
