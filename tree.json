@@ -12402,11 +12402,7 @@
       "id": "F745*4940ab63-c439-4b52-95e0-5f13a25c8f7d"
     },
     {
-      "childRefs": [
-        {
-          "ref": "I1701*0bc58259-fab1-4bbe-a4a3-2a3de0ed25f5"
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I1698*a224fe5d-9fe8-49ee-bd2a-2e40e20bcb96"
@@ -47842,25 +47838,6 @@
       "names": [
         {
           "value": "Pessan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F746*9eb92925-6fe0-4b54-b502-acd6af92b8a4"
-        }
-      ],
-      "id": "I1701*0bc58259-fab1-4bbe-a4a3-2a3de0ed25f5",
-      "names": [
-        {
-          "value": "Kaman //"
         }
       ],
       "eventsFacts": [
