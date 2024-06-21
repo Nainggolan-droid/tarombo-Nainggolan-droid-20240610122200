@@ -12248,6 +12248,19 @@
           "ref": "I249*301b34c7-6574-45cd-8625-940f1b772f65"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1677*a5f16a87-3549-478d-b717-8dea9f2cf5e6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I633*db852ed4-c1bb-43ad-ac3a-b903c352f7f1"
+        }
+      ],
+      "id": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
     }
   ],
   "head": {
@@ -25640,6 +25653,11 @@
       "famc": [
         {
           "ref": "F263*8f78428b-643e-4345-84d6-51b60f5f13ba"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
         }
       ],
       "id": "I633*db852ed4-c1bb-43ad-ac3a-b903c352f7f1",
@@ -47194,6 +47212,25 @@
       "names": [
         {
           "value": " /Siboro/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
+        }
+      ],
+      "id": "I1677*a5f16a87-3549-478d-b717-8dea9f2cf5e6",
+      "names": [
+        {
+          "value": "A.Tiomsi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
