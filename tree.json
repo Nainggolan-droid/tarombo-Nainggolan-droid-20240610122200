@@ -12356,6 +12356,19 @@
         }
       ],
       "id": "F743*61b7a174-22ab-4f9a-9418-06c1f54c5581"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1693*3cd7aa48-1d86-48dd-adaf-0452de29910e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1690*089172ce-8300-4c6e-9494-42c109ffcf4d"
+        }
+      ],
+      "id": "F744*4decf226-9f85-4fea-958a-ea75a6154f74"
     }
   ],
   "head": {
@@ -47576,6 +47589,11 @@
           "ref": "F743*61b7a174-22ab-4f9a-9418-06c1f54c5581"
         }
       ],
+      "fams": [
+        {
+          "ref": "F744*4decf226-9f85-4fea-958a-ea75a6154f74"
+        }
+      ],
       "id": "I1690*089172ce-8300-4c6e-9494-42c109ffcf4d",
       "names": [
         {
@@ -47618,6 +47636,25 @@
       "names": [
         {
           "value": "A ayu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F744*4decf226-9f85-4fea-958a-ea75a6154f74"
+        }
+      ],
+      "id": "I1693*3cd7aa48-1d86-48dd-adaf-0452de29910e",
+      "names": [
+        {
+          "value": "Dedy //"
         }
       ],
       "eventsFacts": [
