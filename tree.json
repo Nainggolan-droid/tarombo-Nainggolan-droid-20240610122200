@@ -12464,6 +12464,9 @@
       "childRefs": [
         {
           "ref": "I1713*7fdee3a0-d4bd-4191-8a35-4442678d2467"
+        },
+        {
+          "ref": "I1714*2929ead0-39ac-463b-8c9e-f0cdc946812f"
         }
       ],
       "husbandRefs": [
@@ -48144,6 +48147,25 @@
       "names": [
         {
           "value": "Dalsman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F749*ba2d6f90-6169-4be3-bdfe-84fbd623100a"
+        }
+      ],
+      "id": "I1714*2929ead0-39ac-463b-8c9e-f0cdc946812f",
+      "names": [
+        {
+          "value": "Mangara //"
         }
       ],
       "eventsFacts": [
