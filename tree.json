@@ -12345,6 +12345,9 @@
         },
         {
           "ref": "I1691*641ee8c7-379c-44aa-a294-67caa5515398"
+        },
+        {
+          "ref": "I1692*5800e1ff-6e1b-49fb-be37-8742bf494d11"
         }
       ],
       "husbandRefs": [
@@ -47596,6 +47599,25 @@
       "names": [
         {
           "value": "Lambok //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F743*61b7a174-22ab-4f9a-9418-06c1f54c5581"
+        }
+      ],
+      "id": "I1692*5800e1ff-6e1b-49fb-be37-8742bf494d11",
+      "names": [
+        {
+          "value": "A ayu //"
         }
       ],
       "eventsFacts": [
