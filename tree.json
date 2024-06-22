@@ -47307,6 +47307,12 @@
         {
           "value": "Mangoloi //"
         }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
       ]
     }
   ]
