@@ -12545,6 +12545,9 @@
         },
         {
           "ref": "I1726*bdd35e83-2822-42d8-98c8-027c16408fb4"
+        },
+        {
+          "ref": "I1727*acb668b8-4c12-4c95-a60f-32c1c25965d5"
         }
       ],
       "husbandRefs": [
@@ -48522,6 +48525,25 @@
       "names": [
         {
           "value": "A Alena //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F753*f6de8a99-6b1b-4eae-910f-9c2805647117"
+        }
+      ],
+      "id": "I1727*acb668b8-4c12-4c95-a60f-32c1c25965d5",
+      "names": [
+        {
+          "value": "A Belfa //"
         }
       ],
       "eventsFacts": [
