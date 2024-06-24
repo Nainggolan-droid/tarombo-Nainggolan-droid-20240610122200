@@ -12294,6 +12294,9 @@
         },
         {
           "ref": "I1684*52f59ffc-6168-4f7e-bc61-d438981b1dfa"
+        },
+        {
+          "ref": "I1685*27e837cf-25f5-4707-b5f3-eaf0109f49fe"
         }
       ],
       "husbandRefs": [
@@ -47409,6 +47412,25 @@
       "names": [
         {
           "value": "Hadim //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F740*5e872f94-3821-4d5e-b555-480ff5b53ec9"
+        }
+      ],
+      "id": "I1685*27e837cf-25f5-4707-b5f3-eaf0109f49fe",
+      "names": [
+        {
+          "value": "Pessan //"
         }
       ],
       "eventsFacts": [
