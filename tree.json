@@ -12526,6 +12526,9 @@
         },
         {
           "ref": "I1723*dfc2b57c-bbcb-443f-9ee0-56459b0f7449"
+        },
+        {
+          "ref": "I1724*93681ebf-3b46-49a1-88a9-a1f4d55ad47a"
         }
       ],
       "husbandRefs": [
@@ -48441,6 +48444,25 @@
       "names": [
         {
           "value": "Op.Batara //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F752*ca91e4a1-5743-416b-8bf7-625c9712d93f"
+        }
+      ],
+      "id": "I1724*93681ebf-3b46-49a1-88a9-a1f4d55ad47a",
+      "names": [
+        {
+          "value": "Op.Daut //"
         }
       ],
       "eventsFacts": [
