@@ -12542,6 +12542,9 @@
       "childRefs": [
         {
           "ref": "I1725*95c916a9-a1f8-41b7-a0d3-d4a24eb3d4c6"
+        },
+        {
+          "ref": "I1726*bdd35e83-2822-42d8-98c8-027c16408fb4"
         }
       ],
       "husbandRefs": [
@@ -48500,6 +48503,25 @@
       "names": [
         {
           "value": "Atur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F753*f6de8a99-6b1b-4eae-910f-9c2805647117"
+        }
+      ],
+      "id": "I1726*bdd35e83-2822-42d8-98c8-027c16408fb4",
+      "names": [
+        {
+          "value": "A Alena //"
         }
       ],
       "eventsFacts": [
