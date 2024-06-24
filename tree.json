@@ -12340,6 +12340,19 @@
         }
       ],
       "id": "F742*8541f441-d25a-4fcb-9343-e30e411bc7db"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1691*4e74d458-e9a2-4551-9556-ed2aeae59665"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1688*7460b348-e291-4a70-bcfb-54566de5758d"
+        }
+      ],
+      "id": "F743*5b32ce34-013a-4cf5-bffb-ae0e0228ff06"
     }
   ],
   "head": {
@@ -47529,6 +47542,11 @@
           "ref": "F741*475a3c00-b3b4-4aa3-8aeb-f2bb916637ed"
         }
       ],
+      "fams": [
+        {
+          "ref": "F743*5b32ce34-013a-4cf5-bffb-ae0e0228ff06"
+        }
+      ],
       "id": "I1688*7460b348-e291-4a70-bcfb-54566de5758d",
       "names": [
         {
@@ -47571,6 +47589,25 @@
       "names": [
         {
           "value": "Mangara //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F743*5b32ce34-013a-4cf5-bffb-ae0e0228ff06"
+        }
+      ],
+      "id": "I1691*4e74d458-e9a2-4551-9556-ed2aeae59665",
+      "names": [
+        {
+          "value": "Ponsus //"
         }
       ],
       "eventsFacts": [
