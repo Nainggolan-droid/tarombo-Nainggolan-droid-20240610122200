@@ -12288,6 +12288,9 @@
         },
         {
           "ref": "I1682*91d65502-4975-4886-8f18-e0d6dfa326fe"
+        },
+        {
+          "ref": "I1683*3eec2aa0-39d8-4139-a459-1c13aacfee77"
         }
       ],
       "husbandRefs": [
@@ -47365,6 +47368,25 @@
       "names": [
         {
           "value": "Ranto //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F740*5e872f94-3821-4d5e-b555-480ff5b53ec9"
+        }
+      ],
+      "id": "I1683*3eec2aa0-39d8-4139-a459-1c13aacfee77",
+      "names": [
+        {
+          "value": "Deling //"
         }
       ],
       "eventsFacts": [
