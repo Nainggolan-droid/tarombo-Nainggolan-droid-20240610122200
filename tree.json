@@ -12482,9 +12482,6 @@
         },
         {
           "ref": "I1716*c43819a9-44be-40f6-a211-a5215aa4b8b9"
-        },
-        {
-          "ref": "I1717*3497a01d-f355-4a2e-a54b-85bd46f1719d"
         }
       ],
       "husbandRefs": [
@@ -48372,25 +48369,6 @@
       "names": [
         {
           "value": "Lambok //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F750*38d1ec5d-670d-4fb4-88ac-d0d7af056455"
-        }
-      ],
-      "id": "I1717*3497a01d-f355-4a2e-a54b-85bd46f1719d",
-      "names": [
-        {
-          "value": "Pak Ayu //"
         }
       ],
       "eventsFacts": [
