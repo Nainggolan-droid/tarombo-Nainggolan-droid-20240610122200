@@ -12446,6 +12446,19 @@
         }
       ],
       "id": "F748*b18631cc-d7b3-4d24-b1f6-493e2ad4f68f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1708*5ebbbd21-aa78-42c4-bede-ca168d46c657"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1701*51c6777c-db30-4265-9876-c27338bc704f"
+        }
+      ],
+      "id": "F749*298c5357-ea9f-4e27-87dc-31bb3d818c92"
     }
   ],
   "head": {
@@ -47907,6 +47920,11 @@
           "ref": "F747*cf4eb41d-09c6-4ae2-b6f1-de2f22c7d5ff"
         }
       ],
+      "fams": [
+        {
+          "ref": "F749*298c5357-ea9f-4e27-87dc-31bb3d818c92"
+        }
+      ],
       "id": "I1701*51c6777c-db30-4265-9876-c27338bc704f",
       "names": [
         {
@@ -48029,6 +48047,25 @@
       "names": [
         {
           "value": "Jabarani //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F749*298c5357-ea9f-4e27-87dc-31bb3d818c92"
+        }
+      ],
+      "id": "I1708*5ebbbd21-aa78-42c4-bede-ca168d46c657",
+      "names": [
+        {
+          "value": "A Jabarus //"
         }
       ],
       "eventsFacts": [
