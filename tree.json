@@ -12548,6 +12548,9 @@
         },
         {
           "ref": "I1727*acb668b8-4c12-4c95-a60f-32c1c25965d5"
+        },
+        {
+          "ref": "I1728*4d1ffcf6-d693-48cd-b84c-4c821cda76ce"
         }
       ],
       "husbandRefs": [
@@ -48544,6 +48547,25 @@
       "names": [
         {
           "value": "A Belfa //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F753*f6de8a99-6b1b-4eae-910f-9c2805647117"
+        }
+      ],
+      "id": "I1728*4d1ffcf6-d693-48cd-b84c-4c821cda76ce",
+      "names": [
+        {
+          "value": "A Ester //"
         }
       ],
       "eventsFacts": [
