@@ -12457,6 +12457,9 @@
         },
         {
           "ref": "I1710*45eb3ea7-ce2b-4882-a3cb-f38f9c01a29f"
+        },
+        {
+          "ref": "I1711*1e9738dd-0e97-45c8-8425-8fdd95011d79"
         }
       ],
       "husbandRefs": [
@@ -48110,6 +48113,25 @@
       "names": [
         {
           "value": "Mangapian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F749*298c5357-ea9f-4e27-87dc-31bb3d818c92"
+        }
+      ],
+      "id": "I1711*1e9738dd-0e97-45c8-8425-8fdd95011d79",
+      "names": [
+        {
+          "value": "Op Dedy //"
         }
       ],
       "eventsFacts": [
