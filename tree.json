@@ -12609,6 +12609,9 @@
         },
         {
           "ref": "I1734*01581635-97fb-4f99-a241-55d28f9950f6"
+        },
+        {
+          "ref": "I1735*91cb3abc-c507-4342-bc11-ad00ccadd8cf"
         }
       ],
       "husbandRefs": [
@@ -48764,6 +48767,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F757*6a4223f9-363b-46e3-b203-dd34609614d4"
+        }
+      ],
+      "id": "I1735*91cb3abc-c507-4342-bc11-ad00ccadd8cf",
+      "names": [
+        {
+          "value": "Yogi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
