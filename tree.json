@@ -12356,6 +12356,19 @@
         }
       ],
       "id": "F743*5b32ce34-013a-4cf5-bffb-ae0e0228ff06"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1693*32c50b30-7780-4d6c-8eee-02e004c87942"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1682*91d65502-4975-4886-8f18-e0d6dfa326fe"
+        }
+      ],
+      "id": "F744*0e0d84e5-bf7b-4722-a9a4-dc1fe78f472c"
     }
   ],
   "head": {
@@ -47421,6 +47434,11 @@
           "ref": "F740*5e872f94-3821-4d5e-b555-480ff5b53ec9"
         }
       ],
+      "fams": [
+        {
+          "ref": "F744*0e0d84e5-bf7b-4722-a9a4-dc1fe78f472c"
+        }
+      ],
       "id": "I1682*91d65502-4975-4886-8f18-e0d6dfa326fe",
       "names": [
         {
@@ -47630,6 +47648,25 @@
       "names": [
         {
           "value": "Hariando //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F744*0e0d84e5-bf7b-4722-a9a4-dc1fe78f472c"
+        }
+      ],
+      "id": "I1693*32c50b30-7780-4d6c-8eee-02e004c87942",
+      "names": [
+        {
+          "value": "Bale //"
         }
       ],
       "eventsFacts": [
