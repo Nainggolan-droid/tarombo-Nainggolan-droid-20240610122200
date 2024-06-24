@@ -12410,6 +12410,19 @@
         }
       ],
       "id": "F746*7c5b6d59-7256-4afe-b617-809361edb67e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1701*51c6777c-db30-4265-9876-c27338bc704f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I629*17e161f5-a3ad-4712-94f5-fb20fc6a6730"
+        }
+      ],
+      "id": "F747*cf4eb41d-09c6-4ae2-b6f1-de2f22c7d5ff"
     }
   ],
   "head": {
@@ -25726,6 +25739,11 @@
       "famc": [
         {
           "ref": "F261*faafff42-e655-4625-a8de-101333e556eb"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F747*cf4eb41d-09c6-4ae2-b6f1-de2f22c7d5ff"
         }
       ],
       "id": "I629*17e161f5-a3ad-4712-94f5-fb20fc6a6730",
@@ -47857,6 +47875,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F747*cf4eb41d-09c6-4ae2-b6f1-de2f22c7d5ff"
+        }
+      ],
+      "id": "I1701*51c6777c-db30-4265-9876-c27338bc704f",
+      "names": [
+        {
+          "value": "A Gaiat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
