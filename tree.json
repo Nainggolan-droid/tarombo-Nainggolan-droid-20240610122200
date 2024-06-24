@@ -12397,6 +12397,19 @@
         }
       ],
       "id": "F745*71231192-ab00-4f2d-911e-50fd5232861f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1700*bb52acd6-ca69-4ce3-a1cc-fa009ee7cae5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1698*0ba25e8c-550f-463c-b2da-c9a1cc3d7dab"
+        }
+      ],
+      "id": "F746*7c5b6d59-7256-4afe-b617-809361edb67e"
     }
   ],
   "head": {
@@ -47791,6 +47804,11 @@
           "ref": "F745*71231192-ab00-4f2d-911e-50fd5232861f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F746*7c5b6d59-7256-4afe-b617-809361edb67e"
+        }
+      ],
       "id": "I1698*0ba25e8c-550f-463c-b2da-c9a1cc3d7dab",
       "names": [
         {
@@ -47820,6 +47838,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F746*7c5b6d59-7256-4afe-b617-809361edb67e"
+        }
+      ],
+      "id": "I1700*bb52acd6-ca69-4ce3-a1cc-fa009ee7cae5",
+      "names": [
+        {
+          "value": "Nai Butet //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
