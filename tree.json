@@ -12482,6 +12482,9 @@
         },
         {
           "ref": "I1736*a0362e4d-8f2c-47f0-bfff-24df14921c7f"
+        },
+        {
+          "ref": "I1737*167a6935-4625-405b-b05c-605dfa2ddf7e"
         }
       ],
       "husbandRefs": [
@@ -48736,6 +48739,25 @@
       "names": [
         {
           "value": "Marolop //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F750*38d1ec5d-670d-4fb4-88ac-d0d7af056455"
+        }
+      ],
+      "id": "I1737*167a6935-4625-405b-b05c-605dfa2ddf7e",
+      "names": [
+        {
+          "value": "Lambok //"
         }
       ],
       "eventsFacts": [
