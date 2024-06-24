@@ -12345,6 +12345,9 @@
       "childRefs": [
         {
           "ref": "I1691*4e74d458-e9a2-4551-9556-ed2aeae59665"
+        },
+        {
+          "ref": "I1692*87949d78-a6f5-492d-8a4e-3c2e18586fe0"
         }
       ],
       "husbandRefs": [
@@ -47608,6 +47611,25 @@
       "names": [
         {
           "value": "Ponsus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F743*5b32ce34-013a-4cf5-bffb-ae0e0228ff06"
+        }
+      ],
+      "id": "I1692*87949d78-a6f5-492d-8a4e-3c2e18586fe0",
+      "names": [
+        {
+          "value": "Hariando //"
         }
       ],
       "eventsFacts": [
