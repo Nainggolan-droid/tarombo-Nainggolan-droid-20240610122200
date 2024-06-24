@@ -12564,6 +12564,9 @@
       "childRefs": [
         {
           "ref": "I1729*b5ea286b-1dd8-410f-bb88-a1719fb298e7"
+        },
+        {
+          "ref": "I1730*7c102328-b2c6-41b8-bd99-a03c6fec5eec"
         }
       ],
       "husbandRefs": [
@@ -48609,6 +48612,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F754*f2d269a5-4525-41cd-be71-18ab8b247179"
+        }
+      ],
+      "id": "I1730*7c102328-b2c6-41b8-bd99-a03c6fec5eec",
+      "names": [
+        {
+          "value": "Kevis //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
