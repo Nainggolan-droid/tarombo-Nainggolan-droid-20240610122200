@@ -12454,6 +12454,9 @@
         },
         {
           "ref": "I1709*15247d2a-6618-45fd-9ec3-8832bb960282"
+        },
+        {
+          "ref": "I1710*45eb3ea7-ce2b-4882-a3cb-f38f9c01a29f"
         }
       ],
       "husbandRefs": [
@@ -48088,6 +48091,25 @@
       "names": [
         {
           "value": "A Rumada //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F749*298c5357-ea9f-4e27-87dc-31bb3d818c92"
+        }
+      ],
+      "id": "I1710*45eb3ea7-ce2b-4882-a3cb-f38f9c01a29f",
+      "names": [
+        {
+          "value": "Mangapian //"
         }
       ],
       "eventsFacts": [
