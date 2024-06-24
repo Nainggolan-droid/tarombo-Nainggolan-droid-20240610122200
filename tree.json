@@ -12386,6 +12386,9 @@
         },
         {
           "ref": "I1698*0ba25e8c-550f-463c-b2da-c9a1cc3d7dab"
+        },
+        {
+          "ref": "I1699*d83f93dd-1424-4ecf-b9e0-0deeba6d1c53"
         }
       ],
       "husbandRefs": [
@@ -47792,6 +47795,25 @@
       "names": [
         {
           "value": "A.Butet //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F745*71231192-ab00-4f2d-911e-50fd5232861f"
+        }
+      ],
+      "id": "I1699*d83f93dd-1424-4ecf-b9e0-0deeba6d1c53",
+      "names": [
+        {
+          "value": "Jakimin //"
         }
       ],
       "eventsFacts": [
