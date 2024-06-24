@@ -12496,6 +12496,19 @@
         }
       ],
       "id": "F750*38d1ec5d-670d-4fb4-88ac-d0d7af056455"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1718*ec48f92c-46a3-4c62-8b26-46176665c07a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1714*6ac369b2-a5a4-47ba-ad17-975bacfa7420"
+        }
+      ],
+      "id": "F751*d8f7bb17-2813-4886-b365-fa39696bb208"
     }
   ],
   "head": {
@@ -48218,6 +48231,11 @@
           "ref": "F750*38d1ec5d-670d-4fb4-88ac-d0d7af056455"
         }
       ],
+      "fams": [
+        {
+          "ref": "F751*d8f7bb17-2813-4886-b365-fa39696bb208"
+        }
+      ],
       "id": "I1714*6ac369b2-a5a4-47ba-ad17-975bacfa7420",
       "names": [
         {
@@ -48279,6 +48297,25 @@
       "names": [
         {
           "value": "Pak Ayu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F751*d8f7bb17-2813-4886-b365-fa39696bb208"
+        }
+      ],
+      "id": "I1718*ec48f92c-46a3-4c62-8b26-46176665c07a",
+      "names": [
+        {
+          "value": "Dedy //"
         }
       ],
       "eventsFacts": [
