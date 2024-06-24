@@ -12474,6 +12474,19 @@
         }
       ],
       "id": "F749*298c5357-ea9f-4e27-87dc-31bb3d818c92"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1714*6ac369b2-a5a4-47ba-ad17-975bacfa7420"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1711*1e9738dd-0e97-45c8-8425-8fdd95011d79"
+        }
+      ],
+      "id": "F750*38d1ec5d-670d-4fb4-88ac-d0d7af056455"
     }
   ],
   "head": {
@@ -48134,6 +48147,11 @@
           "ref": "F749*298c5357-ea9f-4e27-87dc-31bb3d818c92"
         }
       ],
+      "fams": [
+        {
+          "ref": "F750*38d1ec5d-670d-4fb4-88ac-d0d7af056455"
+        }
+      ],
       "id": "I1711*1e9738dd-0e97-45c8-8425-8fdd95011d79",
       "names": [
         {
@@ -48176,6 +48194,25 @@
       "names": [
         {
           "value": "Jabarani //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F750*38d1ec5d-670d-4fb4-88ac-d0d7af056455"
+        }
+      ],
+      "id": "I1714*6ac369b2-a5a4-47ba-ad17-975bacfa7420",
+      "names": [
+        {
+          "value": "A.Dedy //"
         }
       ],
       "eventsFacts": [
