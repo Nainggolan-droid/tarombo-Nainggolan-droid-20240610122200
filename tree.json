@@ -12479,6 +12479,9 @@
       "childRefs": [
         {
           "ref": "I1714*6ac369b2-a5a4-47ba-ad17-975bacfa7420"
+        },
+        {
+          "ref": "I1715*fcc3ddcd-21a2-4ef2-afd3-00cad53691fb"
         }
       ],
       "husbandRefs": [
@@ -48213,6 +48216,25 @@
       "names": [
         {
           "value": "A.Dedy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F750*38d1ec5d-670d-4fb4-88ac-d0d7af056455"
+        }
+      ],
+      "id": "I1715*fcc3ddcd-21a2-4ef2-afd3-00cad53691fb",
+      "names": [
+        {
+          "value": "Marolok //"
         }
       ],
       "eventsFacts": [
