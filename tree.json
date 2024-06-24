@@ -12324,6 +12324,19 @@
         }
       ],
       "id": "F741*475a3c00-b3b4-4aa3-8aeb-f2bb916637ed"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1689*ee37b31c-6d21-4548-b834-e3dc6de7c7d8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1686*23d5edd5-dccd-4fbc-bdbc-e33ccb340ae2"
+        }
+      ],
+      "id": "F742*8541f441-d25a-4fcb-9343-e30e411bc7db"
     }
   ],
   "head": {
@@ -47470,6 +47483,11 @@
           "ref": "F741*475a3c00-b3b4-4aa3-8aeb-f2bb916637ed"
         }
       ],
+      "fams": [
+        {
+          "ref": "F742*8541f441-d25a-4fcb-9343-e30e411bc7db"
+        }
+      ],
       "id": "I1686*23d5edd5-dccd-4fbc-bdbc-e33ccb340ae2",
       "names": [
         {
@@ -47512,6 +47530,25 @@
       "names": [
         {
           "value": "Selman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F742*8541f441-d25a-4fcb-9343-e30e411bc7db"
+        }
+      ],
+      "id": "I1689*ee37b31c-6d21-4548-b834-e3dc6de7c7d8",
+      "names": [
+        {
+          "value": "Dalsman //"
         }
       ],
       "eventsFacts": [
