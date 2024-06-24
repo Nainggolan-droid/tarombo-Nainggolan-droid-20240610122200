@@ -12485,6 +12485,9 @@
         },
         {
           "ref": "I1717*3497a01d-f355-4a2e-a54b-85bd46f1719d"
+        },
+        {
+          "ref": "I1736*0b14ef89-ad73-43a6-b257-d6a200b155f6"
         }
       ],
       "husbandRefs": [
@@ -48758,6 +48761,25 @@
       "names": [
         {
           "value": "Yogi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F750*38d1ec5d-670d-4fb4-88ac-d0d7af056455"
+        }
+      ],
+      "id": "I1736*0b14ef89-ad73-43a6-b257-d6a200b155f6",
+      "names": [
+        {
+          "value": "Marolop //"
         }
       ],
       "eventsFacts": [
