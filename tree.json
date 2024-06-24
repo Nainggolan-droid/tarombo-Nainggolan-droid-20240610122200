@@ -12460,6 +12460,9 @@
         },
         {
           "ref": "I1711*1e9738dd-0e97-45c8-8425-8fdd95011d79"
+        },
+        {
+          "ref": "I1712*fda5bbfe-c373-4f57-ab88-939779a2b2a4"
         }
       ],
       "husbandRefs": [
@@ -48132,6 +48135,25 @@
       "names": [
         {
           "value": "Op Dedy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F749*298c5357-ea9f-4e27-87dc-31bb3d818c92"
+        }
+      ],
+      "id": "I1712*fda5bbfe-c373-4f57-ab88-939779a2b2a4",
+      "names": [
+        {
+          "value": "Jahiram //"
         }
       ],
       "eventsFacts": [
