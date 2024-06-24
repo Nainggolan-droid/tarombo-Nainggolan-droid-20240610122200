@@ -12463,6 +12463,9 @@
         },
         {
           "ref": "I1712*fda5bbfe-c373-4f57-ab88-939779a2b2a4"
+        },
+        {
+          "ref": "I1713*51282124-25d8-4729-abec-205187fbd74c"
         }
       ],
       "husbandRefs": [
@@ -48154,6 +48157,25 @@
       "names": [
         {
           "value": "Jahiram //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F749*298c5357-ea9f-4e27-87dc-31bb3d818c92"
+        }
+      ],
+      "id": "I1713*51282124-25d8-4729-abec-205187fbd74c",
+      "names": [
+        {
+          "value": "Jabarani //"
         }
       ],
       "eventsFacts": [
