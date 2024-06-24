@@ -12383,6 +12383,9 @@
         },
         {
           "ref": "I1697*e2add0c0-530d-4599-8081-a2ddb26c6084"
+        },
+        {
+          "ref": "I1698*0ba25e8c-550f-463c-b2da-c9a1cc3d7dab"
         }
       ],
       "husbandRefs": [
@@ -47770,6 +47773,25 @@
       "names": [
         {
           "value": "Nelson //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F745*71231192-ab00-4f2d-911e-50fd5232861f"
+        }
+      ],
+      "id": "I1698*0ba25e8c-550f-463c-b2da-c9a1cc3d7dab",
+      "names": [
+        {
+          "value": "A.Butet //"
         }
       ],
       "eventsFacts": [
