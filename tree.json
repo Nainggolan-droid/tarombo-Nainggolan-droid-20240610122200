@@ -12380,6 +12380,9 @@
       "childRefs": [
         {
           "ref": "I1696*ff73783a-d59b-4dd8-a9c3-8568e6f61551"
+        },
+        {
+          "ref": "I1697*e2add0c0-530d-4599-8081-a2ddb26c6084"
         }
       ],
       "husbandRefs": [
@@ -47754,6 +47757,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F745*71231192-ab00-4f2d-911e-50fd5232861f"
+        }
+      ],
+      "id": "I1697*e2add0c0-530d-4599-8081-a2ddb26c6084",
+      "names": [
+        {
+          "value": "Nelson //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
