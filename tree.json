@@ -47996,13 +47996,17 @@
       "id": "I1705*384ef616-6e96-429b-b02f-2d10756a4047",
       "names": [
         {
-          "value": "Op.Dedy //"
+          "value": "connector"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "tag": "_CONN",
+          "value": "Nainggolan-droid/tarombo-Nainggolan-droid-20240625062732"
         }
       ]
     },
