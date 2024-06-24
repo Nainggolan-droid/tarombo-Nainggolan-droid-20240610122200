@@ -12606,6 +12606,9 @@
       "childRefs": [
         {
           "ref": "I1733*2c94d939-17a6-46ef-bfb9-6f5b59bdc443"
+        },
+        {
+          "ref": "I1734*01581635-97fb-4f99-a241-55d28f9950f6"
         }
       ],
       "husbandRefs": [
@@ -48742,6 +48745,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F757*6a4223f9-363b-46e3-b203-dd34609614d4"
+        }
+      ],
+      "id": "I1734*01581635-97fb-4f99-a241-55d28f9950f6",
+      "names": [
+        {
+          "value": "Nai Ribkah //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
