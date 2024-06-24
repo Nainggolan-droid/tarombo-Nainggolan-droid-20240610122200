@@ -12364,6 +12364,9 @@
         },
         {
           "ref": "I1694*87207847-3b14-418d-9eef-6b9fe29e0452"
+        },
+        {
+          "ref": "I1695*f367b3de-1949-4672-a1a6-7eb3b7f74101"
         }
       ],
       "husbandRefs": [
@@ -47689,6 +47692,25 @@
       "names": [
         {
           "value": "Jatim //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F744*0e0d84e5-bf7b-4722-a9a4-dc1fe78f472c"
+        }
+      ],
+      "id": "I1695*f367b3de-1949-4672-a1a6-7eb3b7f74101",
+      "names": [
+        {
+          "value": "Klion //"
         }
       ],
       "eventsFacts": [
