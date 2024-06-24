@@ -12310,6 +12310,9 @@
       "childRefs": [
         {
           "ref": "I1686*23d5edd5-dccd-4fbc-bdbc-e33ccb340ae2"
+        },
+        {
+          "ref": "I1687*4ee798f4-18c6-4b56-87ae-3ded832b9611"
         }
       ],
       "husbandRefs": [
@@ -47468,6 +47471,25 @@
       "names": [
         {
           "value": "Osman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F741*475a3c00-b3b4-4aa3-8aeb-f2bb916637ed"
+        }
+      ],
+      "id": "I1687*4ee798f4-18c6-4b56-87ae-3ded832b9611",
+      "names": [
+        {
+          "value": "Kaman //"
         }
       ],
       "eventsFacts": [
