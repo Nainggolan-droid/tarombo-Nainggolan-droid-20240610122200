@@ -12515,6 +12515,19 @@
         }
       ],
       "id": "F751*d8f7bb17-2813-4886-b365-fa39696bb208"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1721*9070c4bd-c63b-468e-99e6-87046f45f39f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1712*fda5bbfe-c373-4f57-ab88-939779a2b2a4"
+        }
+      ],
+      "id": "F752*ca91e4a1-5743-416b-8bf7-625c9712d93f"
     }
   ],
   "head": {
@@ -48199,6 +48212,11 @@
           "ref": "F749*298c5357-ea9f-4e27-87dc-31bb3d818c92"
         }
       ],
+      "fams": [
+        {
+          "ref": "F752*ca91e4a1-5743-416b-8bf7-625c9712d93f"
+        }
+      ],
       "id": "I1712*fda5bbfe-c373-4f57-ab88-939779a2b2a4",
       "names": [
         {
@@ -48360,6 +48378,25 @@
       "names": [
         {
           "value": "Doni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F752*ca91e4a1-5743-416b-8bf7-625c9712d93f"
+        }
+      ],
+      "id": "I1721*9070c4bd-c63b-468e-99e6-87046f45f39f",
+      "names": [
+        {
+          "value": "Lingga //"
         }
       ],
       "eventsFacts": [
