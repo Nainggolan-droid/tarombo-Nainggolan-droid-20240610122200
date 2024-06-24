@@ -12280,6 +12280,19 @@
         }
       ],
       "id": "F739*65f1bba6-27b7-448c-a4ce-8ed4f201b0b8"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1681*d7d7d5b8-7959-4a92-9bf6-9e3ac50ba4a7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I636*51c82ea8-f75f-480d-9bcc-1eb97c34321d"
+        }
+      ],
+      "id": "F740*5e872f94-3821-4d5e-b555-480ff5b53ec9"
     }
   ],
   "head": {
@@ -25739,6 +25752,11 @@
       "famc": [
         {
           "ref": "F265*521d768a-64cf-4e95-8328-2c4284bce431"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F740*5e872f94-3821-4d5e-b555-480ff5b53ec9"
         }
       ],
       "id": "I636*51c82ea8-f75f-480d-9bcc-1eb97c34321d",
@@ -47306,6 +47324,25 @@
       "names": [
         {
           "value": "Mangoloi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F740*5e872f94-3821-4d5e-b555-480ff5b53ec9"
+        }
+      ],
+      "id": "I1681*d7d7d5b8-7959-4a92-9bf6-9e3ac50ba4a7",
+      "names": [
+        {
+          "value": "Simpan  //"
         }
       ],
       "eventsFacts": [
