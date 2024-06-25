@@ -12703,6 +12703,19 @@
         }
       ],
       "id": "F762*9a3f16cd-ae78-4a2a-80e0-07e343fe3131"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1751*8abfef06-2e6d-4163-94f7-cf03f37ed444"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I662*5ebabb07-a730-4e3f-957c-fd941206b813"
+        }
+      ],
+      "id": "F763*5b98db17-ed3f-419d-9238-439fe64142df"
     }
   ],
   "head": {
@@ -26725,6 +26738,11 @@
       "famc": [
         {
           "ref": "F275*8068b987-3ecd-445c-b192-fa581bb5644b"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F763*5b98db17-ed3f-419d-9238-439fe64142df"
         }
       ],
       "id": "I662*5ebabb07-a730-4e3f-957c-fd941206b813",
@@ -49097,6 +49115,25 @@
       "names": [
         {
           "value": "Nai Aman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F763*5b98db17-ed3f-419d-9238-439fe64142df"
+        }
+      ],
+      "id": "I1751*8abfef06-2e6d-4163-94f7-cf03f37ed444",
+      "names": [
+        {
+          "value": "Cristin //"
         }
       ],
       "eventsFacts": [
