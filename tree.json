@@ -12761,6 +12761,9 @@
         },
         {
           "ref": "I1762*0e42c750-ef6d-4464-9cb2-bd6ef636dfc7"
+        },
+        {
+          "ref": "I1763*8b258ba9-ebc5-4355-997c-4fd1fd33b58c"
         }
       ],
       "husbandRefs": [
@@ -49412,6 +49415,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F765*1f1d0c39-4cc8-4c1e-9b7d-552d1aaab9f6"
+        }
+      ],
+      "id": "I1763*8b258ba9-ebc5-4355-997c-4fd1fd33b58c",
+      "names": [
+        {
+          "value": "A Paula //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
