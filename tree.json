@@ -4749,6 +4749,9 @@
         },
         {
           "ref": "I1752*2135bb2f-4943-43d3-aaa6-9117aa511224"
+        },
+        {
+          "ref": "I1753*feab4337-b048-4149-931b-51273e9569c1"
         }
       ],
       "husbandRefs": [
@@ -49156,6 +49159,25 @@
       "names": [
         {
           "value": "Chandro //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F278*27ed6950-d560-4214-b10c-8509d1059daf"
+        }
+      ],
+      "id": "I1753*feab4337-b048-4149-931b-51273e9569c1",
+      "names": [
+        {
+          "value": "Aman //"
         }
       ],
       "eventsFacts": [
