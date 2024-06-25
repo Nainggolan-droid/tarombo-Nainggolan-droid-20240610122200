@@ -12940,6 +12940,19 @@
         }
       ],
       "id": "F775*3d1db17f-f254-4860-8eac-ef333dd13547"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1793*99fcbf7b-7bf3-41f3-a481-81da1aab9d76"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1789*52bf0ce6-88f4-4def-954f-dc9673b3b682"
+        }
+      ],
+      "id": "F776*0adc527d-b6c3-423b-ac1c-1e614272a9c5"
     }
   ],
   "head": {
@@ -50022,6 +50035,11 @@
           "ref": "F775*3d1db17f-f254-4860-8eac-ef333dd13547"
         }
       ],
+      "fams": [
+        {
+          "ref": "F776*0adc527d-b6c3-423b-ac1c-1e614272a9c5"
+        }
+      ],
       "id": "I1789*52bf0ce6-88f4-4def-954f-dc9673b3b682",
       "names": [
         {
@@ -50083,6 +50101,25 @@
       "names": [
         {
           "value": "Bale //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F776*0adc527d-b6c3-423b-ac1c-1e614272a9c5"
+        }
+      ],
+      "id": "I1793*99fcbf7b-7bf3-41f3-a481-81da1aab9d76",
+      "names": [
+        {
+          "value": "Tumpol //"
         }
       ],
       "eventsFacts": [
