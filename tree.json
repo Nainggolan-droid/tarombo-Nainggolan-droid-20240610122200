@@ -12695,6 +12695,9 @@
       "childRefs": [
         {
           "ref": "I1749*243b4ecb-b436-4359-980e-5d110d005f31"
+        },
+        {
+          "ref": "I1750*fc224c47-fcb2-43e4-aaba-a5c5dd13d8ce"
         }
       ],
       "husbandRefs": [
@@ -49097,6 +49100,25 @@
       "names": [
         {
           "value": "Nai Paraim //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F762*9a3f16cd-ae78-4a2a-80e0-07e343fe3131"
+        }
+      ],
+      "id": "I1750*fc224c47-fcb2-43e4-aaba-a5c5dd13d8ce",
+      "names": [
+        {
+          "value": "Nai Aman //"
         }
       ],
       "eventsFacts": [
