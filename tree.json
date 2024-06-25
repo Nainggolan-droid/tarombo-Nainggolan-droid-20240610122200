@@ -12660,6 +12660,9 @@
       "childRefs": [
         {
           "ref": "I1744*b95ce2e0-1769-4f76-b7d8-8124ed6c1b38"
+        },
+        {
+          "ref": "I1745*5c84d48a-8f65-425e-b3ba-97b2278dfeeb"
         }
       ],
       "husbandRefs": [
@@ -48957,6 +48960,25 @@
       "names": [
         {
           "value": "Nai Kanda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F760*c05e997a-e04b-4bc1-b349-02c69a36b8b8"
+        }
+      ],
+      "id": "I1745*5c84d48a-8f65-425e-b3ba-97b2278dfeeb",
+      "names": [
+        {
+          "value": "Nai Meidra //"
         }
       ],
       "eventsFacts": [
