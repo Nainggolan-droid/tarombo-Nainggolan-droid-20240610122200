@@ -12403,6 +12403,9 @@
         },
         {
           "ref": "I1787*02cd3ff7-9ca3-42dd-b128-f56f5a3afa9c"
+        },
+        {
+          "ref": "I1788*8746fdf6-8b93-4416-9f86-365cb4019532"
         }
       ],
       "husbandRefs": [
@@ -49958,6 +49961,25 @@
       "names": [
         {
           "value": "Karsi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F745*71231192-ab00-4f2d-911e-50fd5232861f"
+        }
+      ],
+      "id": "I1788*8746fdf6-8b93-4416-9f86-365cb4019532",
+      "names": [
+        {
+          "value": "Erisma //"
         }
       ],
       "eventsFacts": [
