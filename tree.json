@@ -12690,6 +12690,19 @@
         }
       ],
       "id": "F761*3c0a00cb-5601-4d83-998d-342939910bc8"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1749*243b4ecb-b436-4359-980e-5d110d005f31"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I630*bda8c66f-c2f8-4de8-a0fd-28c3d73031ed"
+        }
+      ],
+      "id": "F762*9a3f16cd-ae78-4a2a-80e0-07e343fe3131"
     }
   ],
   "head": {
@@ -26035,6 +26048,11 @@
       "famc": [
         {
           "ref": "F262*9d178677-2327-4173-b938-2b6a227c264f"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F762*9a3f16cd-ae78-4a2a-80e0-07e343fe3131"
         }
       ],
       "id": "I630*bda8c66f-c2f8-4de8-a0fd-28c3d73031ed",
@@ -49066,6 +49084,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F762*9a3f16cd-ae78-4a2a-80e0-07e343fe3131"
+        }
+      ],
+      "id": "I1749*243b4ecb-b436-4359-980e-5d110d005f31",
+      "names": [
+        {
+          "value": "Nai Paraim //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
