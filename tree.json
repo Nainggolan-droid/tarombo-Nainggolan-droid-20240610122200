@@ -13092,6 +13092,9 @@
       "childRefs": [
         {
           "ref": "I1815*47a9a3ca-33a7-412f-8322-86a4de93938f"
+        },
+        {
+          "ref": "I1816*54f34a67-ecc3-4884-ad8c-b2ca4c9dc7b1"
         }
       ],
       "husbandRefs": [
@@ -50725,6 +50728,25 @@
       "names": [
         {
           "value": "Sampah //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F784*2b299810-dedc-4ff4-977f-0cc58b287e30"
+        }
+      ],
+      "id": "I1816*54f34a67-ecc3-4884-ad8c-b2ca4c9dc7b1",
+      "names": [
+        {
+          "value": "Bahrun //"
         }
       ],
       "eventsFacts": [
