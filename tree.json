@@ -12663,6 +12663,9 @@
         },
         {
           "ref": "I1745*5c84d48a-8f65-425e-b3ba-97b2278dfeeb"
+        },
+        {
+          "ref": "I1746*e3c097c5-70ff-43b9-8bbd-d82dcb6c77b2"
         }
       ],
       "husbandRefs": [
@@ -48985,6 +48988,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F760*c05e997a-e04b-4bc1-b349-02c69a36b8b8"
+        }
+      ],
+      "id": "I1746*e3c097c5-70ff-43b9-8bbd-d82dcb6c77b2",
+      "names": [
+        {
+          "value": "A Sahata //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
