@@ -4621,6 +4621,9 @@
         },
         {
           "ref": "I644*f9326e0c-f087-4f0c-8b31-2d92eda9f8cf"
+        },
+        {
+          "ref": "I1821*3756257e-9a59-42c7-b2a3-6198c7c7d9bf"
         }
       ],
       "husbandRefs": [
@@ -50835,6 +50838,25 @@
       "names": [
         {
           "value": "Nai Tahi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F270*c2a7a924-f354-4349-a264-d68104333abc"
+        }
+      ],
+      "id": "I1821*3756257e-9a59-42c7-b2a3-6198c7c7d9bf",
+      "names": [
+        {
+          "value": "Nai Lomsi //"
         }
       ],
       "eventsFacts": [
