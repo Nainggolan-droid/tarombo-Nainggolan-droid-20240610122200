@@ -13070,6 +13070,9 @@
         },
         {
           "ref": "I1811*90872ca7-321c-49eb-a490-d11feaca47be"
+        },
+        {
+          "ref": "I1812*60c27267-5d53-415c-a73b-98b4052e1d32"
         }
       ],
       "husbandRefs": [
@@ -50622,6 +50625,25 @@
       "names": [
         {
           "value": "Nai Kari //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
+        }
+      ],
+      "id": "I1812*60c27267-5d53-415c-a73b-98b4052e1d32",
+      "names": [
+        {
+          "value": "Nai Saiman  //"
         }
       ],
       "eventsFacts": [
