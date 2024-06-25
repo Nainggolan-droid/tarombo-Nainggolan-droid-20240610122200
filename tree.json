@@ -12388,6 +12388,9 @@
         },
         {
           "ref": "I1797*4e35012c-2ca7-4f2f-8e87-009e0c9d607d"
+        },
+        {
+          "ref": "I1798*87a78a7c-91bd-44b0-86c1-9633ae512f6e"
         }
       ],
       "husbandRefs": [
@@ -50224,6 +50227,25 @@
       "names": [
         {
           "value": "Bisman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F744*0e0d84e5-bf7b-4722-a9a4-dc1fe78f472c"
+        }
+      ],
+      "id": "I1798*87a78a7c-91bd-44b0-86c1-9633ae512f6e",
+      "names": [
+        {
+          "value": "Demar //"
         }
       ],
       "eventsFacts": [
