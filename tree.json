@@ -12379,7 +12379,11 @@
       "id": "F743*5b32ce34-013a-4cf5-bffb-ae0e0228ff06"
     },
     {
-      "childRefs": [],
+      "childRefs": [
+        {
+          "ref": "I1795*69f99971-3e89-498d-95eb-5a209698e90b"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I1682*91d65502-4975-4886-8f18-e0d6dfa326fe"
@@ -50157,6 +50161,25 @@
       "names": [
         {
           "value": "Unsok //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F744*0e0d84e5-bf7b-4722-a9a4-dc1fe78f472c"
+        }
+      ],
+      "id": "I1795*69f99971-3e89-498d-95eb-5a209698e90b",
+      "names": [
+        {
+          "value": "Firman //"
         }
       ],
       "eventsFacts": [
