@@ -13033,6 +13033,19 @@
         }
       ],
       "id": "F780*d275da96-5847-4fc1-bd2a-eae9632f714c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1807*622a1050-3973-4157-b3c6-07f49bbde9ca"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1804*b30ceca5-fb72-4d87-b5fa-f0c278e36099"
+        }
+      ],
+      "id": "F781*c19ee3d5-c4d5-4af3-ac61-50ddfa3d1bf1"
     }
   ],
   "head": {
@@ -50425,6 +50438,11 @@
           "ref": "F780*d275da96-5847-4fc1-bd2a-eae9632f714c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F781*c19ee3d5-c4d5-4af3-ac61-50ddfa3d1bf1"
+        }
+      ],
       "id": "I1804*b30ceca5-fb72-4d87-b5fa-f0c278e36099",
       "names": [
         {
@@ -50467,6 +50485,25 @@
       "names": [
         {
           "value": "Siman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F781*c19ee3d5-c4d5-4af3-ac61-50ddfa3d1bf1"
+        }
+      ],
+      "id": "I1807*622a1050-3973-4157-b3c6-07f49bbde9ca",
+      "names": [
+        {
+          "value": "Eta //"
         }
       ],
       "eventsFacts": [
