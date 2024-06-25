@@ -12841,6 +12841,9 @@
       "childRefs": [
         {
           "ref": "I1774*e1fe906b-b200-4cd5-bcbc-89e69cf1ee6a"
+        },
+        {
+          "ref": "I1775*03a6be25-5251-464a-af31-6ce07044dcbf"
         }
       ],
       "husbandRefs": [
@@ -49649,6 +49652,25 @@
       "names": [
         {
           "value": "Karel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F771*db4cd19d-d4f2-4282-a162-4b1785817730"
+        }
+      ],
+      "id": "I1775*03a6be25-5251-464a-af31-6ce07044dcbf",
+      "names": [
+        {
+          "value": "Hidup //"
         }
       ],
       "eventsFacts": [
