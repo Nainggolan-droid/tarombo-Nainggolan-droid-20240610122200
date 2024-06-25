@@ -12822,6 +12822,9 @@
       "childRefs": [
         {
           "ref": "I1771*dd1ec767-a378-4f06-91b5-60a2272d4bc6"
+        },
+        {
+          "ref": "I1772*39309d2c-ad4f-4ff5-87be-cf5e763553fc"
         }
       ],
       "husbandRefs": [
@@ -49568,6 +49571,25 @@
       "names": [
         {
           "value": "Kesman  //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F770*ce6d0c54-61bd-418d-8d7a-29289c375f6e"
+        }
+      ],
+      "id": "I1772*39309d2c-ad4f-4ff5-87be-cf5e763553fc",
+      "names": [
+        {
+          "value": "Hotman //"
         }
       ],
       "eventsFacts": [
