@@ -12857,6 +12857,9 @@
       "childRefs": [
         {
           "ref": "I1776*870dc973-9c83-4837-998a-fae5d4e48e7a"
+        },
+        {
+          "ref": "I1777*afa475d5-a73f-4b77-9848-d96e50851eb9"
         }
       ],
       "husbandRefs": [
@@ -49708,6 +49711,25 @@
       "names": [
         {
           "value": "Monang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F772*bfbbdf6d-782b-4ebd-b1b2-5e187f617b15"
+        }
+      ],
+      "id": "I1777*afa475d5-a73f-4b77-9848-d96e50851eb9",
+      "names": [
+        {
+          "value": "Jaidup //"
         }
       ],
       "eventsFacts": [
