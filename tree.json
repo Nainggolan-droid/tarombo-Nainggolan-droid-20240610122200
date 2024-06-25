@@ -13073,6 +13073,9 @@
         },
         {
           "ref": "I1812*60c27267-5d53-415c-a73b-98b4052e1d32"
+        },
+        {
+          "ref": "I1813*0a033da7-c064-4383-a7d4-5f065436bc4f"
         }
       ],
       "husbandRefs": [
@@ -50644,6 +50647,25 @@
       "names": [
         {
           "value": "Nai Saiman  //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
+        }
+      ],
+      "id": "I1813*0a033da7-c064-4383-a7d4-5f065436bc4f",
+      "names": [
+        {
+          "value": "Nai Muller //"
         }
       ],
       "eventsFacts": [
