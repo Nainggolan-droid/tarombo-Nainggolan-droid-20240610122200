@@ -12998,6 +12998,19 @@
         }
       ],
       "id": "F778*89d44d62-0b7e-48b2-9b73-07871244e034"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1802*ecc7d653-18e2-429d-b776-f43dd8f133fc"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1685*27e837cf-25f5-4707-b5f3-eaf0109f49fe"
+        }
+      ],
+      "id": "F779*c989be00-574f-46b7-8daa-588705ed521b"
     }
   ],
   "head": {
@@ -48171,6 +48184,11 @@
           "ref": "F740*5e872f94-3821-4d5e-b555-480ff5b53ec9"
         }
       ],
+      "fams": [
+        {
+          "ref": "F779*c989be00-574f-46b7-8daa-588705ed521b"
+        }
+      ],
       "id": "I1685*27e837cf-25f5-4707-b5f3-eaf0109f49fe",
       "names": [
         {
@@ -50327,6 +50345,25 @@
       "names": [
         {
           "value": "Muller //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F779*c989be00-574f-46b7-8daa-588705ed521b"
+        }
+      ],
+      "id": "I1802*ecc7d653-18e2-429d-b776-f43dd8f133fc",
+      "names": [
+        {
+          "value": "Djatogar //"
         }
       ],
       "eventsFacts": [
