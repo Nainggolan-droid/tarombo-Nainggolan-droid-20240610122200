@@ -4676,6 +4676,9 @@
       "childRefs": [
         {
           "ref": "I651*d2bab57a-0bd2-4901-ae83-daf0c941434c"
+        },
+        {
+          "ref": "I1755*e3e77010-32cc-4fa8-9765-3b47c79d319f"
         }
       ],
       "husbandRefs": [
@@ -49200,6 +49203,25 @@
       "names": [
         {
           "value": "Butet //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F274*4810a728-c2a7-493f-a143-5206ba4c9a0a"
+        }
+      ],
+      "id": "I1755*e3e77010-32cc-4fa8-9765-3b47c79d319f",
+      "names": [
+        {
+          "value": "Thalia //"
         }
       ],
       "eventsFacts": [
