@@ -13003,6 +13003,9 @@
       "childRefs": [
         {
           "ref": "I1802*ecc7d653-18e2-429d-b776-f43dd8f133fc"
+        },
+        {
+          "ref": "I1803*04df3c88-ae68-43fb-92a0-9f019a329322"
         }
       ],
       "husbandRefs": [
@@ -50364,6 +50367,25 @@
       "names": [
         {
           "value": "Djatogar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F779*c989be00-574f-46b7-8daa-588705ed521b"
+        }
+      ],
+      "id": "I1803*04df3c88-ae68-43fb-92a0-9f019a329322",
+      "names": [
+        {
+          "value": "Palmen //"
         }
       ],
       "eventsFacts": [
