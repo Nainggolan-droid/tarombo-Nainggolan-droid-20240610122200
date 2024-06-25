@@ -12987,6 +12987,9 @@
       "childRefs": [
         {
           "ref": "I1800*c71d6f8f-4544-4e70-b61c-d915ed906d80"
+        },
+        {
+          "ref": "I1801*476c4df4-6ac4-4c69-8779-3a0d5ac8b783"
         }
       ],
       "husbandRefs": [
@@ -50305,6 +50308,25 @@
       "names": [
         {
           "value": "Asmin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F778*89d44d62-0b7e-48b2-9b73-07871244e034"
+        }
+      ],
+      "id": "I1801*476c4df4-6ac4-4c69-8779-3a0d5ac8b783",
+      "names": [
+        {
+          "value": "Muller //"
         }
       ],
       "eventsFacts": [
