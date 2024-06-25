@@ -4583,6 +4583,9 @@
         },
         {
           "ref": "I1818*720190c6-8474-4443-8456-32597a60b838"
+        },
+        {
+          "ref": "I1819*de1f69ad-42c3-464b-93b8-68c9b7a43b23"
         }
       ],
       "husbandRefs": [
@@ -50791,6 +50794,25 @@
       "names": [
         {
           "value": "Tiar  //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F268*96221828-2f64-47bf-9bf5-2c8b1da89b22"
+        }
+      ],
+      "id": "I1819*de1f69ad-42c3-464b-93b8-68c9b7a43b23",
+      "names": [
+        {
+          "value": "Sari //"
         }
       ],
       "eventsFacts": [
