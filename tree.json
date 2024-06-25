@@ -4353,6 +4353,9 @@
         },
         {
           "ref": "I610*6713e5cb-a9ce-4c54-97d1-07c6e10466f5"
+        },
+        {
+          "ref": "I1820*fa5f9959-9614-4a29-a8c0-933b64da6e45"
         }
       ],
       "husbandRefs": [
@@ -50813,6 +50816,25 @@
       "names": [
         {
           "value": "Sari //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F254*6ad893fe-fba0-43b9-b59d-f944b9c1c1f1"
+        }
+      ],
+      "id": "I1820*fa5f9959-9614-4a29-a8c0-933b64da6e45",
+      "names": [
+        {
+          "value": "Nai Tahi //"
         }
       ],
       "eventsFacts": [
