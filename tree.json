@@ -4666,6 +4666,9 @@
         },
         {
           "ref": "I1756*f02f3dc7-7e87-4aff-b2bb-100302f1cedb"
+        },
+        {
+          "ref": "I1757*918ed590-1726-4c0a-99ca-cf835db20032"
         }
       ],
       "husbandRefs": [
@@ -49244,6 +49247,25 @@
       "names": [
         {
           "value": "Jessica //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F273*be7f0c15-9218-4de3-b03e-92fc30c8e6ca"
+        }
+      ],
+      "id": "I1757*918ed590-1726-4c0a-99ca-cf835db20032",
+      "names": [
+        {
+          "value": "Frisca //"
         }
       ],
       "eventsFacts": [
