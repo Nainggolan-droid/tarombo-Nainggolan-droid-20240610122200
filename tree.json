@@ -13087,6 +13087,19 @@
         }
       ],
       "id": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1815*47a9a3ca-33a7-412f-8322-86a4de93938f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1810*355ce32a-3231-416c-aefc-c8cdf9a2ae8d"
+        }
+      ],
+      "id": "F784*2b299810-dedc-4ff4-977f-0cc58b287e30"
     }
   ],
   "head": {
@@ -50608,6 +50621,11 @@
           "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
         }
       ],
+      "fams": [
+        {
+          "ref": "F784*2b299810-dedc-4ff4-977f-0cc58b287e30"
+        }
+      ],
       "id": "I1810*355ce32a-3231-416c-aefc-c8cdf9a2ae8d",
       "names": [
         {
@@ -50694,6 +50712,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F784*2b299810-dedc-4ff4-977f-0cc58b287e30"
+        }
+      ],
+      "id": "I1815*47a9a3ca-33a7-412f-8322-86a4de93938f",
+      "names": [
+        {
+          "value": "Sampah //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
