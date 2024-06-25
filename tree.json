@@ -12788,6 +12788,19 @@
         }
       ],
       "id": "F767*aed8abfe-79c6-4018-96a0-fc5fb11c70ce"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1768*eac702b2-214b-4bf5-84ed-bbd2bc22aa55"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I622*232789bd-f8f8-4ad8-853d-d87cba7ae518"
+        }
+      ],
+      "id": "F768*dafe644c-6bbe-463d-a945-414fff9b1ddc"
     }
   ],
   "head": {
@@ -25961,6 +25974,11 @@
       "famc": [
         {
           "ref": "F259*7413cd13-c454-46f1-8cec-12ca044d1b39"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F768*dafe644c-6bbe-463d-a945-414fff9b1ddc"
         }
       ],
       "id": "I622*232789bd-f8f8-4ad8-853d-d87cba7ae518",
@@ -49441,6 +49459,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F768*dafe644c-6bbe-463d-a945-414fff9b1ddc"
+        }
+      ],
+      "id": "I1768*eac702b2-214b-4bf5-84ed-bbd2bc22aa55",
+      "names": [
+        {
+          "value": "Landong Ha //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
