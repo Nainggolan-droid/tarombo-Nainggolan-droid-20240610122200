@@ -13019,6 +13019,9 @@
       "childRefs": [
         {
           "ref": "I1804*b30ceca5-fb72-4d87-b5fa-f0c278e36099"
+        },
+        {
+          "ref": "I1805*aa650108-e9d6-4627-8afa-e2bc15e1763a"
         }
       ],
       "husbandRefs": [
@@ -50423,6 +50426,25 @@
       "names": [
         {
           "value": "Djaga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F780*d275da96-5847-4fc1-bd2a-eae9632f714c"
+        }
+      ],
+      "id": "I1805*aa650108-e9d6-4627-8afa-e2bc15e1763a",
+      "names": [
+        {
+          "value": "Djatah //"
         }
       ],
       "eventsFacts": [
