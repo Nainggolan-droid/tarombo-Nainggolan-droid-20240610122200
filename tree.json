@@ -12785,6 +12785,19 @@
         }
       ],
       "id": "F766*a28c25a2-d229-4f94-b98f-747ea545a274"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1767*ab25f5f8-378b-4c07-84e9-8cf9678dbd5b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1765*989c2cc8-7a6f-49e2-bb1e-d1d6055777d9"
+        }
+      ],
+      "id": "F767*aed8abfe-79c6-4018-96a0-fc5fb11c70ce"
     }
   ],
   "head": {
@@ -49442,6 +49455,11 @@
           "ref": "F765*1f1d0c39-4cc8-4c1e-9b7d-552d1aaab9f6"
         }
       ],
+      "fams": [
+        {
+          "ref": "F767*aed8abfe-79c6-4018-96a0-fc5fb11c70ce"
+        }
+      ],
       "id": "I1765*989c2cc8-7a6f-49e2-bb1e-d1d6055777d9",
       "names": [
         {
@@ -49465,6 +49483,25 @@
       "names": [
         {
           "value": "Carolin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F767*aed8abfe-79c6-4018-96a0-fc5fb11c70ce"
+        }
+      ],
+      "id": "I1767*ab25f5f8-378b-4c07-84e9-8cf9678dbd5b",
+      "names": [
+        {
+          "value": "Paula //"
         }
       ],
       "eventsFacts": [
