@@ -12868,6 +12868,19 @@
         }
       ],
       "id": "F772*bfbbdf6d-782b-4ebd-b1b2-5e187f617b15"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1778*3fa57158-3e2a-4390-8c31-4ff8ac5868ab"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I617*a2b0bc9c-1bcd-425c-82b9-7e490b44f9ee"
+        }
+      ],
+      "id": "F773*3e5532ae-3465-4d8e-9414-c08ffeb6e1ac"
     }
   ],
   "head": {
@@ -25936,6 +25949,11 @@
       "famc": [
         {
           "ref": "F256*7477e20d-257a-4afe-80ed-e142901fa648"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F773*3e5532ae-3465-4d8e-9414-c08ffeb6e1ac"
         }
       ],
       "id": "I617*a2b0bc9c-1bcd-425c-82b9-7e490b44f9ee",
@@ -49730,6 +49748,25 @@
       "names": [
         {
           "value": "Jaidup //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F773*3e5532ae-3465-4d8e-9414-c08ffeb6e1ac"
+        }
+      ],
+      "id": "I1778*3fa57158-3e2a-4390-8c31-4ff8ac5868ab",
+      "names": [
+        {
+          "value": "A .Abor //"
         }
       ],
       "eventsFacts": [
