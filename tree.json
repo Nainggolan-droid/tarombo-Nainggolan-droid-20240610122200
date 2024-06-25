@@ -12953,6 +12953,19 @@
         }
       ],
       "id": "F776*0adc527d-b6c3-423b-ac1c-1e614272a9c5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1794*09c3ff52-f3ba-41c4-b933-9da5177040a9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1790*9524c98c-1e1f-4ac7-be48-ff8838b79e6e"
+        }
+      ],
+      "id": "F777*e053c691-7608-4029-81fc-02e8136c83aa"
     }
   ],
   "head": {
@@ -50059,6 +50072,11 @@
           "ref": "F775*3d1db17f-f254-4860-8eac-ef333dd13547"
         }
       ],
+      "fams": [
+        {
+          "ref": "F777*e053c691-7608-4029-81fc-02e8136c83aa"
+        }
+      ],
       "id": "I1790*9524c98c-1e1f-4ac7-be48-ff8838b79e6e",
       "names": [
         {
@@ -50120,6 +50138,25 @@
       "names": [
         {
           "value": "Tumpol //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F777*e053c691-7608-4029-81fc-02e8136c83aa"
+        }
+      ],
+      "id": "I1794*09c3ff52-f3ba-41c4-b933-9da5177040a9",
+      "names": [
+        {
+          "value": "Unsok //"
         }
       ],
       "eventsFacts": [
