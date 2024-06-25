@@ -12703,6 +12703,9 @@
         },
         {
           "ref": "I1781*19a57443-b94b-4883-86b0-566cecf0e997"
+        },
+        {
+          "ref": "I1782*8456af90-f404-437a-8bbb-d229a2aa5049"
         }
       ],
       "husbandRefs": [
@@ -49826,6 +49829,25 @@
       "names": [
         {
           "value": "Nai Juliman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F762*9a3f16cd-ae78-4a2a-80e0-07e343fe3131"
+        }
+      ],
+      "id": "I1782*8456af90-f404-437a-8bbb-d229a2aa5049",
+      "names": [
+        {
+          "value": "Nai Amon //"
         }
       ],
       "eventsFacts": [
