@@ -12376,9 +12376,6 @@
       "childRefs": [
         {
           "ref": "I1693*32c50b30-7780-4d6c-8eee-02e004c87942"
-        },
-        {
-          "ref": "I1694*87207847-3b14-418d-9eef-6b9fe29e0452"
         }
       ],
       "husbandRefs": [
@@ -48114,25 +48111,6 @@
       "names": [
         {
           "value": "Bale //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F744*0e0d84e5-bf7b-4722-a9a4-dc1fe78f472c"
-        }
-      ],
-      "id": "I1694*87207847-3b14-418d-9eef-6b9fe29e0452",
-      "names": [
-        {
-          "value": "Jatim //"
         }
       ],
       "eventsFacts": [
