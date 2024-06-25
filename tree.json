@@ -12391,6 +12391,9 @@
         },
         {
           "ref": "I1798*87a78a7c-91bd-44b0-86c1-9633ae512f6e"
+        },
+        {
+          "ref": "I1799*5d243778-1edc-459b-ba6b-c3e8cf656a1a"
         }
       ],
       "husbandRefs": [
@@ -50246,6 +50249,25 @@
       "names": [
         {
           "value": "Demar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F744*0e0d84e5-bf7b-4722-a9a4-dc1fe78f472c"
+        }
+      ],
+      "id": "I1799*5d243778-1edc-459b-ba6b-c3e8cf656a1a",
+      "names": [
+        {
+          "value": "Sahat //"
         }
       ],
       "eventsFacts": [
