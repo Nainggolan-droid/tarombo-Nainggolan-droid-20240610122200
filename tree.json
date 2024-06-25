@@ -12817,6 +12817,19 @@
         }
       ],
       "id": "F769*648d141f-cb20-41e5-881f-8721b0c5c7ab"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1771*dd1ec767-a378-4f06-91b5-60a2272d4bc6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1769*c4c54c7c-863b-410d-9ab1-917223a03e43"
+        }
+      ],
+      "id": "F770*ce6d0c54-61bd-418d-8d7a-29289c375f6e"
     }
   ],
   "head": {
@@ -49508,6 +49521,11 @@
           "ref": "F769*648d141f-cb20-41e5-881f-8721b0c5c7ab"
         }
       ],
+      "fams": [
+        {
+          "ref": "F770*ce6d0c54-61bd-418d-8d7a-29289c375f6e"
+        }
+      ],
       "id": "I1769*c4c54c7c-863b-410d-9ab1-917223a03e43",
       "names": [
         {
@@ -49531,6 +49549,25 @@
       "names": [
         {
           "value": "A.Jampi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F770*ce6d0c54-61bd-418d-8d7a-29289c375f6e"
+        }
+      ],
+      "id": "I1771*dd1ec767-a378-4f06-91b5-60a2272d4bc6",
+      "names": [
+        {
+          "value": "Kesman  //"
         }
       ],
       "eventsFacts": [
