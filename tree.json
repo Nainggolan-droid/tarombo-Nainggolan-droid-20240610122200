@@ -12677,6 +12677,19 @@
         }
       ],
       "id": "F760*c05e997a-e04b-4bc1-b349-02c69a36b8b8"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1748*6429dfab-e1fb-49e7-b0a3-0879729bef04"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1746*e3c097c5-70ff-43b9-8bbd-d82dcb6c77b2"
+        }
+      ],
+      "id": "F761*3c0a00cb-5601-4d83-998d-342939910bc8"
     }
   ],
   "head": {
@@ -49000,6 +49013,11 @@
           "ref": "F760*c05e997a-e04b-4bc1-b349-02c69a36b8b8"
         }
       ],
+      "fams": [
+        {
+          "ref": "F761*3c0a00cb-5601-4d83-998d-342939910bc8"
+        }
+      ],
       "id": "I1746*e3c097c5-70ff-43b9-8bbd-d82dcb6c77b2",
       "names": [
         {
@@ -49023,6 +49041,25 @@
       "names": [
         {
           "value": "Kiswanto //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F761*3c0a00cb-5601-4d83-998d-342939910bc8"
+        }
+      ],
+      "id": "I1748*6429dfab-e1fb-49e7-b0a3-0879729bef04",
+      "names": [
+        {
+          "value": "Sahata //"
         }
       ],
       "eventsFacts": [
