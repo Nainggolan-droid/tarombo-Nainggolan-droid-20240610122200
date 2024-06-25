@@ -12923,6 +12923,9 @@
       "childRefs": [
         {
           "ref": "I1789*52bf0ce6-88f4-4def-954f-dc9673b3b682"
+        },
+        {
+          "ref": "I1790*9524c98c-1e1f-4ac7-be48-ff8838b79e6e"
         }
       ],
       "husbandRefs": [
@@ -50017,6 +50020,25 @@
       "names": [
         {
           "value": "Djatim //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F775*3d1db17f-f254-4860-8eac-ef333dd13547"
+        }
+      ],
+      "id": "I1790*9524c98c-1e1f-4ac7-be48-ff8838b79e6e",
+      "names": [
+        {
+          "value": "Ludik //"
         }
       ],
       "eventsFacts": [
