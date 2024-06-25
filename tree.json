@@ -12761,6 +12761,9 @@
         },
         {
           "ref": "I1764*31ef2e65-6a9c-43d1-aecb-598c00f0a035"
+        },
+        {
+          "ref": "I1765*989c2cc8-7a6f-49e2-bb1e-d1d6055777d9"
         }
       ],
       "husbandRefs": [
@@ -49406,6 +49409,25 @@
       "names": [
         {
           "value": "Adi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F765*1f1d0c39-4cc8-4c1e-9b7d-552d1aaab9f6"
+        }
+      ],
+      "id": "I1765*989c2cc8-7a6f-49e2-bb1e-d1d6055777d9",
+      "names": [
+        {
+          "value": "A.Paula //"
         }
       ],
       "eventsFacts": [
