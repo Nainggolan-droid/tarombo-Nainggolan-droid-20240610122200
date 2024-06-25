@@ -12734,6 +12734,19 @@
         }
       ],
       "id": "F763*5b98db17-ed3f-419d-9238-439fe64142df"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1758*5e4f80e7-b61c-4db4-a514-2f76b8df859b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I647*38682d97-d217-471c-9813-54c647664efe"
+        }
+      ],
+      "id": "F764*73bb396d-9662-4bc3-a63f-01b8bd67ba30"
     }
   ],
   "head": {
@@ -26450,6 +26463,11 @@
       "famc": [
         {
           "ref": "F271*b45fe992-6a46-4654-a1cb-3a856b2962b6"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F764*73bb396d-9662-4bc3-a63f-01b8bd67ba30"
         }
       ],
       "id": "I647*38682d97-d217-471c-9813-54c647664efe",
@@ -49266,6 +49284,25 @@
       "names": [
         {
           "value": "Frisca //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F764*73bb396d-9662-4bc3-a63f-01b8bd67ba30"
+        }
+      ],
+      "id": "I1758*5e4f80e7-b61c-4db4-a514-2f76b8df859b",
+      "names": [
+        {
+          "value": "Gloria //"
         }
       ],
       "eventsFacts": [
