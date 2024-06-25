@@ -12806,6 +12806,9 @@
       "childRefs": [
         {
           "ref": "I1769*c4c54c7c-863b-410d-9ab1-917223a03e43"
+        },
+        {
+          "ref": "I1770*243f38e0-9a34-4704-b81c-4535689006af"
         }
       ],
       "husbandRefs": [
@@ -49509,6 +49512,25 @@
       "names": [
         {
           "value": "A .Sangkotan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F769*648d141f-cb20-41e5-881f-8721b0c5c7ab"
+        }
+      ],
+      "id": "I1770*243f38e0-9a34-4704-b81c-4535689006af",
+      "names": [
+        {
+          "value": "A.Jampi //"
         }
       ],
       "eventsFacts": [
