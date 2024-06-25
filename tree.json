@@ -12385,6 +12385,9 @@
         },
         {
           "ref": "I1796*d85f2790-0293-41db-babc-9c2e4817d754"
+        },
+        {
+          "ref": "I1797*4e35012c-2ca7-4f2f-8e87-009e0c9d607d"
         }
       ],
       "husbandRefs": [
@@ -50202,6 +50205,25 @@
       "names": [
         {
           "value": "Gulbit //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F744*0e0d84e5-bf7b-4722-a9a4-dc1fe78f472c"
+        }
+      ],
+      "id": "I1797*4e35012c-2ca7-4f2f-8e87-009e0c9d607d",
+      "names": [
+        {
+          "value": "Bisman //"
         }
       ],
       "eventsFacts": [
