@@ -12655,6 +12655,19 @@
         }
       ],
       "id": "F759*bcb67285-2717-455e-9392-a5af110c6e3e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1744*b95ce2e0-1769-4f76-b7d8-8124ed6c1b38"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I625*f3497a3b-2441-4b42-a773-cbd0ea112703"
+        }
+      ],
+      "id": "F760*c05e997a-e04b-4bc1-b349-02c69a36b8b8"
     }
   ],
   "head": {
@@ -25885,6 +25898,11 @@
       "famc": [
         {
           "ref": "F260*050fcf88-02b4-4661-bf58-37d3a60c254e"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F760*c05e997a-e04b-4bc1-b349-02c69a36b8b8"
         }
       ],
       "id": "I625*f3497a3b-2441-4b42-a773-cbd0ea112703",
@@ -48920,6 +48938,25 @@
       "names": [
         {
           "value": "Erna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F760*c05e997a-e04b-4bc1-b349-02c69a36b8b8"
+        }
+      ],
+      "id": "I1744*b95ce2e0-1769-4f76-b7d8-8124ed6c1b38",
+      "names": [
+        {
+          "value": "Nai Kanda //"
         }
       ],
       "eventsFacts": [
