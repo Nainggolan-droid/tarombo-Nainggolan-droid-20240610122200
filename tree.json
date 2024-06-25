@@ -13095,9 +13095,6 @@
         },
         {
           "ref": "I1816*54f34a67-ecc3-4884-ad8c-b2ca4c9dc7b1"
-        },
-        {
-          "ref": "I1817*8974a5e9-cbaf-41d3-93dc-8d3361598335"
         }
       ],
       "husbandRefs": [
@@ -50756,25 +50753,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F784*2b299810-dedc-4ff4-977f-0cc58b287e30"
-        }
-      ],
-      "id": "I1817*8974a5e9-cbaf-41d3-93dc-8d3361598335",
-      "names": [
-        {
-          "value": "Jipper //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
         }
       ]
     }
