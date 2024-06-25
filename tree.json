@@ -12755,6 +12755,9 @@
       "childRefs": [
         {
           "ref": "I1760*4a2beb88-12c8-42ee-86f0-cd2d231e0878"
+        },
+        {
+          "ref": "I1761*e42960aa-5145-4ae3-961c-4724a2c9875d"
         }
       ],
       "husbandRefs": [
@@ -49368,6 +49371,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F765*1f1d0c39-4cc8-4c1e-9b7d-552d1aaab9f6"
+        }
+      ],
+      "id": "I1761*e42960aa-5145-4ae3-961c-4724a2c9875d",
+      "names": [
+        {
+          "value": "Nai Madani //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
