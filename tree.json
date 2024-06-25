@@ -4580,6 +4580,9 @@
         },
         {
           "ref": "I640*415e4835-9962-43ad-aad5-4887a91eadf8"
+        },
+        {
+          "ref": "I1818*0f5a0181-402d-468c-9dcc-11ec269e4d28"
         }
       ],
       "husbandRefs": [
@@ -50775,6 +50778,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F268*96221828-2f64-47bf-9bf5-2c8b1da89b22"
+        }
+      ],
+      "id": "I1818*0f5a0181-402d-468c-9dcc-11ec269e4d28",
+      "names": [
+        {
+          "value": "Tiar / Silalahi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
