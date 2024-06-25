@@ -13014,6 +13014,19 @@
         }
       ],
       "id": "F779*c989be00-574f-46b7-8daa-588705ed521b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1804*b30ceca5-fb72-4d87-b5fa-f0c278e36099"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I639*1e86eb27-40b3-43e5-9fe0-4deca98578c5"
+        }
+      ],
+      "id": "F780*d275da96-5847-4fc1-bd2a-eae9632f714c"
     }
   ],
   "head": {
@@ -26556,6 +26569,11 @@
       "famc": [
         {
           "ref": "F268*96221828-2f64-47bf-9bf5-2c8b1da89b22"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F780*d275da96-5847-4fc1-bd2a-eae9632f714c"
         }
       ],
       "id": "I639*1e86eb27-40b3-43e5-9fe0-4deca98578c5",
@@ -50386,6 +50404,25 @@
       "names": [
         {
           "value": "Palmen //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F780*d275da96-5847-4fc1-bd2a-eae9632f714c"
+        }
+      ],
+      "id": "I1804*b30ceca5-fb72-4d87-b5fa-f0c278e36099",
+      "names": [
+        {
+          "value": "Djaga //"
         }
       ],
       "eventsFacts": [
