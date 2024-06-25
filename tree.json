@@ -12918,6 +12918,19 @@
         }
       ],
       "id": "F774*eb622f4f-ff52-4f5e-b082-85d40bc6e2f3"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1789*52bf0ce6-88f4-4def-954f-dc9673b3b682"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1681*d7d7d5b8-7959-4a92-9bf6-9e3ac50ba4a7"
+        }
+      ],
+      "id": "F775*3d1db17f-f254-4860-8eac-ef333dd13547"
     }
   ],
   "head": {
@@ -47995,6 +48008,11 @@
           "ref": "F740*5e872f94-3821-4d5e-b555-480ff5b53ec9"
         }
       ],
+      "fams": [
+        {
+          "ref": "F775*3d1db17f-f254-4860-8eac-ef333dd13547"
+        }
+      ],
       "id": "I1681*d7d7d5b8-7959-4a92-9bf6-9e3ac50ba4a7",
       "names": [
         {
@@ -49986,6 +50004,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F775*3d1db17f-f254-4860-8eac-ef333dd13547"
+        }
+      ],
+      "id": "I1789*52bf0ce6-88f4-4def-954f-dc9673b3b682",
+      "names": [
+        {
+          "value": "Djatim //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
