@@ -12706,6 +12706,9 @@
         },
         {
           "ref": "I1782*8456af90-f404-437a-8bbb-d229a2aa5049"
+        },
+        {
+          "ref": "I1783*cbc20b78-d0c8-48fb-9cb8-bc747bf580f9"
         }
       ],
       "husbandRefs": [
@@ -49848,6 +49851,25 @@
       "names": [
         {
           "value": "Nai Amon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F762*9a3f16cd-ae78-4a2a-80e0-07e343fe3131"
+        }
+      ],
+      "id": "I1783*cbc20b78-d0c8-48fb-9cb8-bc747bf580f9",
+      "names": [
+        {
+          "value": "Nai Helmi //"
         }
       ],
       "eventsFacts": [
