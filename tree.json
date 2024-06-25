@@ -13022,6 +13022,9 @@
         },
         {
           "ref": "I1805*aa650108-e9d6-4627-8afa-e2bc15e1763a"
+        },
+        {
+          "ref": "I1806*396bee8b-1074-4a2b-a491-a527cc8c9c5f"
         }
       ],
       "husbandRefs": [
@@ -50445,6 +50448,25 @@
       "names": [
         {
           "value": "Djatah //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F780*d275da96-5847-4fc1-bd2a-eae9632f714c"
+        }
+      ],
+      "id": "I1806*396bee8b-1074-4a2b-a491-a527cc8c9c5f",
+      "names": [
+        {
+          "value": "Siman //"
         }
       ],
       "eventsFacts": [
