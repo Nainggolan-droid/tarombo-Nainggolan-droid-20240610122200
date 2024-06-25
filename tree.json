@@ -12801,6 +12801,19 @@
         }
       ],
       "id": "F768*dafe644c-6bbe-463d-a945-414fff9b1ddc"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1769*c4c54c7c-863b-410d-9ab1-917223a03e43"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I616*cf36d0ac-e6db-4a73-8416-2199273c4869"
+        }
+      ],
+      "id": "F769*648d141f-cb20-41e5-881f-8721b0c5c7ab"
     }
   ],
   "head": {
@@ -25845,6 +25858,11 @@
       "famc": [
         {
           "ref": "F256*7477e20d-257a-4afe-80ed-e142901fa648"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F769*648d141f-cb20-41e5-881f-8721b0c5c7ab"
         }
       ],
       "id": "I616*cf36d0ac-e6db-4a73-8416-2199273c4869",
@@ -49472,6 +49490,25 @@
       "names": [
         {
           "value": "Landong Ha //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F769*648d141f-cb20-41e5-881f-8721b0c5c7ab"
+        }
+      ],
+      "id": "I1769*c4c54c7c-863b-410d-9ab1-917223a03e43",
+      "names": [
+        {
+          "value": "A .Sangkotan //"
         }
       ],
       "eventsFacts": [
