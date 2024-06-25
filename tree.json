@@ -13051,6 +13051,9 @@
       "childRefs": [
         {
           "ref": "I1808*2466332c-f106-4c30-800e-c365f683a797"
+        },
+        {
+          "ref": "I1809*920e4d7b-9b64-4a50-a8ec-f72630a17bd7"
         }
       ],
       "husbandRefs": [
@@ -50541,6 +50544,25 @@
       "names": [
         {
           "value": "Kaliahman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F782*0c82a37d-e371-4b89-bb34-e56829b34d29"
+        }
+      ],
+      "id": "I1809*920e4d7b-9b64-4a50-a8ec-f72630a17bd7",
+      "names": [
+        {
+          "value": "Hahata //"
         }
       ],
       "eventsFacts": [
