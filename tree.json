@@ -12700,6 +12700,9 @@
       "childRefs": [
         {
           "ref": "I1749*243b4ecb-b436-4359-980e-5d110d005f31"
+        },
+        {
+          "ref": "I1781*19a57443-b94b-4883-86b0-566cecf0e997"
         }
       ],
       "husbandRefs": [
@@ -49804,6 +49807,25 @@
       "names": [
         {
           "value": "Nai Maranggun //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F762*9a3f16cd-ae78-4a2a-80e0-07e343fe3131"
+        }
+      ],
+      "id": "I1781*19a57443-b94b-4883-86b0-566cecf0e997",
+      "names": [
+        {
+          "value": "Nai Juliman //"
         }
       ],
       "eventsFacts": [
