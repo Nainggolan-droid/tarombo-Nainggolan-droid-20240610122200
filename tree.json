@@ -12739,6 +12739,9 @@
       "childRefs": [
         {
           "ref": "I1758*5e4f80e7-b61c-4db4-a514-2f76b8df859b"
+        },
+        {
+          "ref": "I1759*98d535d9-2276-48eb-a9ea-ff31b2b7f67c"
         }
       ],
       "husbandRefs": [
@@ -49303,6 +49306,25 @@
       "names": [
         {
           "value": "Gloria //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F764*73bb396d-9662-4bc3-a63f-01b8bd67ba30"
+        }
+      ],
+      "id": "I1759*98d535d9-2276-48eb-a9ea-ff31b2b7f67c",
+      "names": [
+        {
+          "value": "Laurens //"
         }
       ],
       "eventsFacts": [
