@@ -12639,6 +12639,19 @@
         }
       ],
       "id": "F758*749bf6fd-43ef-449d-8228-8443ab17974f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1742*110b1a6d-97b6-45d2-858b-1c0593ca4a5c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1687*4ee798f4-18c6-4b56-87ae-3ded832b9611"
+        }
+      ],
+      "id": "F759*bcb67285-2717-455e-9392-a5af110c6e3e"
     }
   ],
   "head": {
@@ -47829,6 +47842,11 @@
           "ref": "F741*475a3c00-b3b4-4aa3-8aeb-f2bb916637ed"
         }
       ],
+      "fams": [
+        {
+          "ref": "F759*bcb67285-2717-455e-9392-a5af110c6e3e"
+        }
+      ],
       "id": "I1687*4ee798f4-18c6-4b56-87ae-3ded832b9611",
       "names": [
         {
@@ -48861,6 +48879,25 @@
       "names": [
         {
           "value": "Fany //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F759*bcb67285-2717-455e-9392-a5af110c6e3e"
+        }
+      ],
+      "id": "I1742*110b1a6d-97b6-45d2-858b-1c0593ca4a5c",
+      "names": [
+        {
+          "value": "Meliati //"
         }
       ],
       "eventsFacts": [
