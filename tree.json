@@ -12709,6 +12709,9 @@
         },
         {
           "ref": "I1783*cbc20b78-d0c8-48fb-9cb8-bc747bf580f9"
+        },
+        {
+          "ref": "I1784*263b06bd-eb9d-4c91-a87b-6be97ec85c10"
         }
       ],
       "husbandRefs": [
@@ -49870,6 +49873,25 @@
       "names": [
         {
           "value": "Nai Helmi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F762*9a3f16cd-ae78-4a2a-80e0-07e343fe3131"
+        }
+      ],
+      "id": "I1784*263b06bd-eb9d-4c91-a87b-6be97ec85c10",
+      "names": [
+        {
+          "value": "Sabena //"
         }
       ],
       "eventsFacts": [
