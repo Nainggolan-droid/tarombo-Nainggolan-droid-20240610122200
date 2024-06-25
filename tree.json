@@ -12825,6 +12825,9 @@
         },
         {
           "ref": "I1772*39309d2c-ad4f-4ff5-87be-cf5e763553fc"
+        },
+        {
+          "ref": "I1773*38bff148-8eb4-4a77-9087-17e6ca674b66"
         }
       ],
       "husbandRefs": [
@@ -49590,6 +49593,25 @@
       "names": [
         {
           "value": "Hotman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F770*ce6d0c54-61bd-418d-8d7a-29289c375f6e"
+        }
+      ],
+      "id": "I1773*38bff148-8eb4-4a77-9087-17e6ca674b66",
+      "names": [
+        {
+          "value": "Mangisi //"
         }
       ],
       "eventsFacts": [
