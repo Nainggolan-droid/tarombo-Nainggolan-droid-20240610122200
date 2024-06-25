@@ -12881,6 +12881,19 @@
         }
       ],
       "id": "F773*3e5532ae-3465-4d8e-9414-c08ffeb6e1ac"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1779*f5c2fd5b-f246-419b-916f-735b362d8589"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1778*3fa57158-3e2a-4390-8c31-4ff8ac5868ab"
+        }
+      ],
+      "id": "F774*eb622f4f-ff52-4f5e-b082-85d40bc6e2f3"
     }
   ],
   "head": {
@@ -49763,10 +49776,34 @@
           "ref": "F773*3e5532ae-3465-4d8e-9414-c08ffeb6e1ac"
         }
       ],
+      "fams": [
+        {
+          "ref": "F774*eb622f4f-ff52-4f5e-b082-85d40bc6e2f3"
+        }
+      ],
       "id": "I1778*3fa57158-3e2a-4390-8c31-4ff8ac5868ab",
       "names": [
         {
           "value": "A .Abor //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F774*eb622f4f-ff52-4f5e-b082-85d40bc6e2f3"
+        }
+      ],
+      "id": "I1779*f5c2fd5b-f246-419b-916f-735b362d8589",
+      "names": [
+        {
+          "value": "Abor //"
         }
       ],
       "eventsFacts": [
