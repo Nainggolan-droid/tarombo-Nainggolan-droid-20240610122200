@@ -12290,6 +12290,9 @@
         },
         {
           "ref": "I1785*5cb95582-2179-401b-8432-7c5c045efa5d"
+        },
+        {
+          "ref": "I1786*337a66d6-f48b-450b-a5b6-0e8132458efb"
         }
       ],
       "husbandRefs": [
@@ -49914,6 +49917,25 @@
       "names": [
         {
           "value": "Heddi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F739*65f1bba6-27b7-448c-a4ce-8ed4f201b0b8"
+        }
+      ],
+      "id": "I1786*337a66d6-f48b-450b-a5b6-0e8132458efb",
+      "names": [
+        {
+          "value": "Arlinda //"
         }
       ],
       "eventsFacts": [
