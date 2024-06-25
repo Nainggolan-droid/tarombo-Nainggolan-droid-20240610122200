@@ -13076,6 +13076,9 @@
         },
         {
           "ref": "I1813*0a033da7-c064-4383-a7d4-5f065436bc4f"
+        },
+        {
+          "ref": "I1814*14a69c97-873e-4377-8ab9-07b28121deac"
         }
       ],
       "husbandRefs": [
@@ -50666,6 +50669,25 @@
       "names": [
         {
           "value": "Nai Muller //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
+        }
+      ],
+      "id": "I1814*14a69c97-873e-4377-8ab9-07b28121deac",
+      "names": [
+        {
+          "value": "Nai Ramli //"
         }
       ],
       "eventsFacts": [
