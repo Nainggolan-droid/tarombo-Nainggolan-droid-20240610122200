@@ -12873,6 +12873,9 @@
       "childRefs": [
         {
           "ref": "I1778*3fa57158-3e2a-4390-8c31-4ff8ac5868ab"
+        },
+        {
+          "ref": "I1780*9af22358-5a16-45fa-81c8-e370b2fafeac"
         }
       ],
       "husbandRefs": [
@@ -49810,6 +49813,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F773*3e5532ae-3465-4d8e-9414-c08ffeb6e1ac"
+        }
+      ],
+      "id": "I1780*9af22358-5a16-45fa-81c8-e370b2fafeac",
+      "names": [
+        {
+          "value": "Nai Maranggun //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
