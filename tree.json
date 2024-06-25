@@ -12644,6 +12644,9 @@
       "childRefs": [
         {
           "ref": "I1742*110b1a6d-97b6-45d2-858b-1c0593ca4a5c"
+        },
+        {
+          "ref": "I1743*3bff172b-b971-4693-b010-4f5f3d434219"
         }
       ],
       "husbandRefs": [
@@ -48898,6 +48901,25 @@
       "names": [
         {
           "value": "Meliati //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F759*bcb67285-2717-455e-9392-a5af110c6e3e"
+        }
+      ],
+      "id": "I1743*3bff172b-b971-4693-b010-4f5f3d434219",
+      "names": [
+        {
+          "value": "Erna //"
         }
       ],
       "eventsFacts": [
