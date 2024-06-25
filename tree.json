@@ -12382,6 +12382,9 @@
       "childRefs": [
         {
           "ref": "I1795*69f99971-3e89-498d-95eb-5a209698e90b"
+        },
+        {
+          "ref": "I1796*d85f2790-0293-41db-babc-9c2e4817d754"
         }
       ],
       "husbandRefs": [
@@ -50180,6 +50183,25 @@
       "names": [
         {
           "value": "Firman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F744*0e0d84e5-bf7b-4722-a9a4-dc1fe78f472c"
+        }
+      ],
+      "id": "I1796*d85f2790-0293-41db-babc-9c2e4817d754",
+      "names": [
+        {
+          "value": "Gulbit //"
         }
       ],
       "eventsFacts": [
