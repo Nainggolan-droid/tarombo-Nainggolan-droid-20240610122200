@@ -12926,6 +12926,9 @@
         },
         {
           "ref": "I1790*9524c98c-1e1f-4ac7-be48-ff8838b79e6e"
+        },
+        {
+          "ref": "I1791*39ad0cea-1b82-403d-b994-d57a717908a0"
         }
       ],
       "husbandRefs": [
@@ -50039,6 +50042,25 @@
       "names": [
         {
           "value": "Ludik //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F775*3d1db17f-f254-4860-8eac-ef333dd13547"
+        }
+      ],
+      "id": "I1791*39ad0cea-1b82-403d-b994-d57a717908a0",
+      "names": [
+        {
+          "value": "Milion //"
         }
       ],
       "eventsFacts": [
