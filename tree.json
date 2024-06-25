@@ -12287,6 +12287,9 @@
         },
         {
           "ref": "I1680*b033526f-cdc7-4bef-9d72-22bde08eb82f"
+        },
+        {
+          "ref": "I1785*5cb95582-2179-401b-8432-7c5c045efa5d"
         }
       ],
       "husbandRefs": [
@@ -49892,6 +49895,25 @@
       "names": [
         {
           "value": "Sabena //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F739*65f1bba6-27b7-448c-a4ce-8ed4f201b0b8"
+        }
+      ],
+      "id": "I1785*5cb95582-2179-401b-8432-7c5c045efa5d",
+      "names": [
+        {
+          "value": "Heddi //"
         }
       ],
       "eventsFacts": [
