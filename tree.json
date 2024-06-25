@@ -13062,6 +13062,19 @@
         }
       ],
       "id": "F782*0c82a37d-e371-4b89-bb34-e56829b34d29"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1810*355ce32a-3231-416c-aefc-c8cdf9a2ae8d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I642*8e176c75-d59f-46c8-ac23-c659f8cb15cb"
+        }
+      ],
+      "id": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
     }
   ],
   "head": {
@@ -26676,6 +26689,11 @@
       "famc": [
         {
           "ref": "F269*61580406-170d-470c-82cb-36fececcbf06"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
         }
       ],
       "id": "I642*8e176c75-d59f-46c8-ac23-c659f8cb15cb",
@@ -50563,6 +50581,25 @@
       "names": [
         {
           "value": "Hahata //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
+        }
+      ],
+      "id": "I1810*355ce32a-3231-416c-aefc-c8cdf9a2ae8d",
+      "names": [
+        {
+          "value": "Sale //"
         }
       ],
       "eventsFacts": [
