@@ -13273,6 +13273,19 @@
           "ref": "I1812*60c27267-5d53-415c-a73b-98b4052e1d32"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1838*a101ecb8-7ae1-4534-ad96-94f197917d9e"
+        }
+      ],
+      "id": "F796*47809ae2-46fb-493f-b7be-bc2cda387631",
+      "wifeRefs": [
+        {
+          "ref": "I1814*14a69c97-873e-4377-8ab9-07b28121deac"
+        }
+      ]
     }
   ],
   "head": {
@@ -50867,6 +50880,11 @@
           "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
         }
       ],
+      "fams": [
+        {
+          "ref": "F796*47809ae2-46fb-493f-b7be-bc2cda387631"
+        }
+      ],
       "id": "I1814*14a69c97-873e-4377-8ab9-07b28121deac",
       "names": [
         {
@@ -51348,6 +51366,25 @@
       "names": [
         {
           "value": "Kasianus Saragi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F796*47809ae2-46fb-493f-b7be-bc2cda387631"
+        }
+      ],
+      "id": "I1838*a101ecb8-7ae1-4534-ad96-94f197917d9e",
+      "names": [
+        {
+          "value": "Derik Op.Sunggu //"
         }
       ],
       "eventsFacts": [
