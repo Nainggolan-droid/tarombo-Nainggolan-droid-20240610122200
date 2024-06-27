@@ -13286,6 +13286,19 @@
           "ref": "I1814*14a69c97-873e-4377-8ab9-07b28121deac"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1839*4953d7a3-30f0-48a0-9dec-e70ef428ce44"
+        }
+      ],
+      "id": "F797*d4e276d4-6eb1-416a-91bd-0d727bf8016e",
+      "wifeRefs": [
+        {
+          "ref": "I1813*0a033da7-c064-4383-a7d4-5f065436bc4f"
+        }
+      ]
     }
   ],
   "head": {
@@ -50861,6 +50874,11 @@
           "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
         }
       ],
+      "fams": [
+        {
+          "ref": "F797*d4e276d4-6eb1-416a-91bd-0d727bf8016e"
+        }
+      ],
       "id": "I1813*0a033da7-c064-4383-a7d4-5f065436bc4f",
       "names": [
         {
@@ -51385,6 +51403,25 @@
       "names": [
         {
           "value": "Derik Op.Sunggu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F797*d4e276d4-6eb1-416a-91bd-0d727bf8016e"
+        }
+      ],
+      "id": "I1839*4953d7a3-30f0-48a0-9dec-e70ef428ce44",
+      "names": [
+        {
+          "value": "Jaendi Manik //"
         }
       ],
       "eventsFacts": [
