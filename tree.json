@@ -13179,6 +13179,19 @@
           "ref": "I1826*5c2c8bed-bede-4d35-acc8-097d613c8c97"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1829*83b9fca9-466f-43bf-822b-805866fd5ee6"
+        }
+      ],
+      "id": "F789*0392ad04-cea6-498b-bf75-8147ca47f589",
+      "wifeRefs": [
+        {
+          "ref": "I1828*3231adfe-3b52-464f-b6ef-9af123fe68e0"
+        }
+      ]
     }
   ],
   "head": {
@@ -51067,6 +51080,11 @@
           "ref": "F271*b45fe992-6a46-4654-a1cb-3a856b2962b6"
         }
       ],
+      "fams": [
+        {
+          "ref": "F789*0392ad04-cea6-498b-bf75-8147ca47f589"
+        }
+      ],
       "id": "I1828*3231adfe-3b52-464f-b6ef-9af123fe68e0",
       "names": [
         {
@@ -51077,6 +51095,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F789*0392ad04-cea6-498b-bf75-8147ca47f589"
+        }
+      ],
+      "id": "I1829*83b9fca9-466f-43bf-822b-805866fd5ee6",
+      "names": [
+        {
+          "value": "Simare Mare //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
