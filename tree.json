@@ -13325,6 +13325,19 @@
           "ref": "I1820*fa5f9959-9614-4a29-a8c0-933b64da6e45"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1842*a6f033a2-c32f-4beb-80ba-284b4790c421"
+        }
+      ],
+      "id": "F800*4d89bb04-30b2-492b-85f3-57d00a1493ac",
+      "wifeRefs": [
+        {
+          "ref": "I1696*ff73783a-d59b-4dd8-a9c3-8568e6f61551"
+        }
+      ]
     }
   ],
   "head": {
@@ -48690,6 +48703,11 @@
           "ref": "F745*71231192-ab00-4f2d-911e-50fd5232861f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F800*4d89bb04-30b2-492b-85f3-57d00a1493ac"
+        }
+      ],
       "id": "I1696*ff73783a-d59b-4dd8-a9c3-8568e6f61551",
       "names": [
         {
@@ -51496,6 +51514,25 @@
       "names": [
         {
           "value": "Samosir //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F800*4d89bb04-30b2-492b-85f3-57d00a1493ac"
+        }
+      ],
+      "id": "I1842*a6f033a2-c32f-4beb-80ba-284b4790c421",
+      "names": [
+        {
+          "value": "Napitupulu //"
         }
       ],
       "eventsFacts": [
