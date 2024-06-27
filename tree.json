@@ -13118,6 +13118,19 @@
         }
       ],
       "id": "F784*2b299810-dedc-4ff4-977f-0cc58b287e30"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1822*64286ec1-ad0b-46e6-978b-363ecbd31577"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1691*4e74d458-e9a2-4551-9556-ed2aeae59665"
+        }
+      ],
+      "id": "F785*6e3ecd80-d7b7-4edb-8187-5195454fd860"
     }
   ],
   "head": {
@@ -48435,6 +48448,11 @@
           "ref": "F743*5b32ce34-013a-4cf5-bffb-ae0e0228ff06"
         }
       ],
+      "fams": [
+        {
+          "ref": "F785*6e3ecd80-d7b7-4edb-8187-5195454fd860"
+        }
+      ],
       "id": "I1691*4e74d458-e9a2-4551-9556-ed2aeae59665",
       "names": [
         {
@@ -50863,6 +50881,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F785*6e3ecd80-d7b7-4edb-8187-5195454fd860"
+        }
+      ],
+      "id": "I1822*64286ec1-ad0b-46e6-978b-363ecbd31577",
+      "names": [
+        {
+          "value": "Unsok //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
