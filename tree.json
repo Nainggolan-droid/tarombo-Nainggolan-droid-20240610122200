@@ -13234,6 +13234,19 @@
           "ref": "I1818*720190c6-8474-4443-8456-32597a60b838"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1835*ede702f3-1cf2-4f66-a0d7-6f365605953b"
+        }
+      ],
+      "id": "F793*5bcafcb1-82b5-4bb6-bfa5-19011e883847",
+      "wifeRefs": [
+        {
+          "ref": "I1819*de1f69ad-42c3-464b-93b8-68c9b7a43b23"
+        }
+      ]
     }
   ],
   "head": {
@@ -50918,6 +50931,11 @@
           "ref": "F268*96221828-2f64-47bf-9bf5-2c8b1da89b22"
         }
       ],
+      "fams": [
+        {
+          "ref": "F793*5bcafcb1-82b5-4bb6-bfa5-19011e883847"
+        }
+      ],
       "id": "I1819*de1f69ad-42c3-464b-93b8-68c9b7a43b23",
       "names": [
         {
@@ -51237,6 +51255,25 @@
       "names": [
         {
           "value": "Silalahi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F793*5bcafcb1-82b5-4bb6-bfa5-19011e883847"
+        }
+      ],
+      "id": "I1835*ede702f3-1cf2-4f66-a0d7-6f365605953b",
+      "names": [
+        {
+          "value": "Naik Sinaga //"
         }
       ],
       "eventsFacts": [
