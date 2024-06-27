@@ -4649,6 +4649,9 @@
         },
         {
           "ref": "I1826*5c2c8bed-bede-4d35-acc8-097d613c8c97"
+        },
+        {
+          "ref": "I1828*3231adfe-3b52-464f-b6ef-9af123fe68e0"
         }
       ],
       "husbandRefs": [
@@ -51055,6 +51058,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F271*b45fe992-6a46-4654-a1cb-3a856b2962b6"
+        }
+      ],
+      "id": "I1828*3231adfe-3b52-464f-b6ef-9af123fe68e0",
+      "names": [
+        {
+          "value": "Nai Yanti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
