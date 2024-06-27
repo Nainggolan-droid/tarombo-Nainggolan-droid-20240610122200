@@ -13247,6 +13247,19 @@
           "ref": "I1819*de1f69ad-42c3-464b-93b8-68c9b7a43b23"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1836*c608d6a4-fcd3-4e15-8655-cb146e659bb0"
+        }
+      ],
+      "id": "F794*a06cbc4e-b90e-400f-9326-3be6e432201d",
+      "wifeRefs": [
+        {
+          "ref": "I1811*90872ca7-321c-49eb-a490-d11feaca47be"
+        }
+      ]
     }
   ],
   "head": {
@@ -50774,6 +50787,11 @@
           "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
         }
       ],
+      "fams": [
+        {
+          "ref": "F794*a06cbc4e-b90e-400f-9326-3be6e432201d"
+        }
+      ],
       "id": "I1811*90872ca7-321c-49eb-a490-d11feaca47be",
       "names": [
         {
@@ -51274,6 +51292,25 @@
       "names": [
         {
           "value": "Naik Sinaga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F794*a06cbc4e-b90e-400f-9326-3be6e432201d"
+        }
+      ],
+      "id": "I1836*c608d6a4-fcd3-4e15-8655-cb146e659bb0",
+      "names": [
+        {
+          "value": "Lahe Manik //"
         }
       ],
       "eventsFacts": [
