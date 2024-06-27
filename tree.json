@@ -12304,6 +12304,9 @@
         },
         {
           "ref": "I1845*2fefc13e-edf2-484d-8333-3e0e7b8cdfe6"
+        },
+        {
+          "ref": "I1847*cdade835-489d-4382-aeb2-d7d7eb77a193"
         }
       ],
       "husbandRefs": [
@@ -51635,6 +51638,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
+        }
+      ],
+      "id": "I1847*cdade835-489d-4382-aeb2-d7d7eb77a193",
+      "names": [
+        {
+          "value": "Nai Marojahan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
