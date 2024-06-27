@@ -13299,6 +13299,19 @@
           "ref": "I1813*0a033da7-c064-4383-a7d4-5f065436bc4f"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1840*3cab0174-db1b-4f68-9b09-e770245485c5"
+        }
+      ],
+      "id": "F798*b4342cac-173a-4c89-8f75-4f719e898b3f",
+      "wifeRefs": [
+        {
+          "ref": "I654*bbc49a76-069d-4372-877b-a32a9f0c8d36"
+        }
+      ]
     }
   ],
   "head": {
@@ -27189,6 +27202,11 @@
       "famc": [
         {
           "ref": "F276*ba4458aa-1440-470c-b4a1-98d9d24a9783"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F798*b4342cac-173a-4c89-8f75-4f719e898b3f"
         }
       ],
       "id": "I654*bbc49a76-069d-4372-877b-a32a9f0c8d36",
@@ -51422,6 +51440,25 @@
       "names": [
         {
           "value": "Jaendi Manik //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F798*b4342cac-173a-4c89-8f75-4f719e898b3f"
+        }
+      ],
+      "id": "I1840*3cab0174-db1b-4f68-9b09-e770245485c5",
+      "names": [
+        {
+          "value": "Hutapea //"
         }
       ],
       "eventsFacts": [
