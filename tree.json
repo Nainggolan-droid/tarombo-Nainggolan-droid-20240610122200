@@ -13260,6 +13260,19 @@
           "ref": "I1811*90872ca7-321c-49eb-a490-d11feaca47be"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1837*e87f6c55-dd7e-407f-ad76-ec0576ba6d82"
+        }
+      ],
+      "id": "F795*16c68a90-a2a4-4c47-911c-e18c04c9ab9b",
+      "wifeRefs": [
+        {
+          "ref": "I1812*60c27267-5d53-415c-a73b-98b4052e1d32"
+        }
+      ]
     }
   ],
   "head": {
@@ -50811,6 +50824,11 @@
           "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
         }
       ],
+      "fams": [
+        {
+          "ref": "F795*16c68a90-a2a4-4c47-911c-e18c04c9ab9b"
+        }
+      ],
       "id": "I1812*60c27267-5d53-415c-a73b-98b4052e1d32",
       "names": [
         {
@@ -51311,6 +51329,25 @@
       "names": [
         {
           "value": "Lahe Manik //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F795*16c68a90-a2a4-4c47-911c-e18c04c9ab9b"
+        }
+      ],
+      "id": "I1837*e87f6c55-dd7e-407f-ad76-ec0576ba6d82",
+      "names": [
+        {
+          "value": "Kasianus Saragi //"
         }
       ],
       "eventsFacts": [
