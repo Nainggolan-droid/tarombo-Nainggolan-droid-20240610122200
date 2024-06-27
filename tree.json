@@ -12301,6 +12301,9 @@
         },
         {
           "ref": "I1843*42e54ca4-fd49-4174-8717-b96e6afd4291"
+        },
+        {
+          "ref": "I1845*2fefc13e-edf2-484d-8333-3e0e7b8cdfe6"
         }
       ],
       "husbandRefs": [
@@ -51576,6 +51579,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
+        }
+      ],
+      "id": "I1845*2fefc13e-edf2-484d-8333-3e0e7b8cdfe6",
+      "names": [
+        {
+          "value": "Nan Sogo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
