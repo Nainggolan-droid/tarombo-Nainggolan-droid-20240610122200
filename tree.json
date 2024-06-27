@@ -13312,6 +13312,19 @@
           "ref": "I654*bbc49a76-069d-4372-877b-a32a9f0c8d36"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1841*16afa163-d9d0-47b6-85d0-c6ab5caacf90"
+        }
+      ],
+      "id": "F799*3781ddea-6df0-48ae-82ee-68cc165ef54b",
+      "wifeRefs": [
+        {
+          "ref": "I1820*fa5f9959-9614-4a29-a8c0-933b64da6e45"
+        }
+      ]
     }
   ],
   "head": {
@@ -51045,6 +51058,11 @@
           "ref": "F254*6ad893fe-fba0-43b9-b59d-f944b9c1c1f1"
         }
       ],
+      "fams": [
+        {
+          "ref": "F799*3781ddea-6df0-48ae-82ee-68cc165ef54b"
+        }
+      ],
       "id": "I1820*fa5f9959-9614-4a29-a8c0-933b64da6e45",
       "names": [
         {
@@ -51459,6 +51477,25 @@
       "names": [
         {
           "value": "Hutapea //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F799*3781ddea-6df0-48ae-82ee-68cc165ef54b"
+        }
+      ],
+      "id": "I1841*16afa163-d9d0-47b6-85d0-c6ab5caacf90",
+      "names": [
+        {
+          "value": "Samosir //"
         }
       ],
       "eventsFacts": [
