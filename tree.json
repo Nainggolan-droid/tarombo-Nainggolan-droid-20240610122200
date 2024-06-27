@@ -12298,6 +12298,9 @@
         },
         {
           "ref": "I1678*5671189a-bc16-418c-a73b-7027dd8a7ada"
+        },
+        {
+          "ref": "I1843*42e54ca4-fd49-4174-8717-b96e6afd4291"
         }
       ],
       "husbandRefs": [
@@ -51517,6 +51520,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
+        }
+      ],
+      "id": "I1843*42e54ca4-fd49-4174-8717-b96e6afd4291",
+      "names": [
+        {
+          "value": "Nan Sebe //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
