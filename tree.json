@@ -13354,6 +13354,19 @@
           "ref": "I1843*42e54ca4-fd49-4174-8717-b96e6afd4291"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1846*7973da33-a684-465b-ad11-c0a94d003752"
+        }
+      ],
+      "id": "F802*fad3d1cb-8eb6-4e1c-814e-d8f9dfe4cdfd",
+      "wifeRefs": [
+        {
+          "ref": "I1845*2fefc13e-edf2-484d-8333-3e0e7b8cdfe6"
+        }
+      ]
     }
   ],
   "head": {
@@ -51588,6 +51601,11 @@
           "ref": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
         }
       ],
+      "fams": [
+        {
+          "ref": "F802*fad3d1cb-8eb6-4e1c-814e-d8f9dfe4cdfd"
+        }
+      ],
       "id": "I1845*2fefc13e-edf2-484d-8333-3e0e7b8cdfe6",
       "names": [
         {
@@ -51598,6 +51616,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F802*fad3d1cb-8eb6-4e1c-814e-d8f9dfe4cdfd"
+        }
+      ],
+      "id": "I1846*7973da33-a684-465b-ad11-c0a94d003752",
+      "names": [
+        {
+          "value": "Lbn Siantar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
