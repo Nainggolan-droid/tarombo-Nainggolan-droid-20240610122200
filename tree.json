@@ -13195,6 +13195,19 @@
           "ref": "I1828*3231adfe-3b52-464f-b6ef-9af123fe68e0"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1831*c49f98b0-0293-4b19-9ebe-f7da3b53e1b7"
+        }
+      ],
+      "id": "F790*459bd713-d6fb-490a-bb9c-e6b378381c83",
+      "wifeRefs": [
+        {
+          "ref": "I1830*4ee4855d-5806-432a-be98-861012ca4ab4"
+        }
+      ]
     }
   ],
   "head": {
@@ -51126,6 +51139,11 @@
           "ref": "F271*b45fe992-6a46-4654-a1cb-3a856b2962b6"
         }
       ],
+      "fams": [
+        {
+          "ref": "F790*459bd713-d6fb-490a-bb9c-e6b378381c83"
+        }
+      ],
       "id": "I1830*4ee4855d-5806-432a-be98-861012ca4ab4",
       "names": [
         {
@@ -51136,6 +51154,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F790*459bd713-d6fb-490a-bb9c-e6b378381c83"
+        }
+      ],
+      "id": "I1831*c49f98b0-0293-4b19-9ebe-f7da3b53e1b7",
+      "names": [
+        {
+          "value": "Siahaan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
