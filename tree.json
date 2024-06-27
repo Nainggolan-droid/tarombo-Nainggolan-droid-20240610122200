@@ -12298,15 +12298,6 @@
         },
         {
           "ref": "I1678*5671189a-bc16-418c-a73b-7027dd8a7ada"
-        },
-        {
-          "ref": "I1843*42e54ca4-fd49-4174-8717-b96e6afd4291"
-        },
-        {
-          "ref": "I1845*2fefc13e-edf2-484d-8333-3e0e7b8cdfe6"
-        },
-        {
-          "ref": "I1847*cdade835-489d-4382-aeb2-d7d7eb77a193"
         }
       ],
       "husbandRefs": [
@@ -12452,6 +12443,9 @@
         },
         {
           "ref": "I1699*d83f93dd-1424-4ecf-b9e0-0deeba6d1c53"
+        },
+        {
+          "ref": "I1787*02cd3ff7-9ca3-42dd-b128-f56f5a3afa9c"
         },
         {
           "ref": "I1788*8746fdf6-8b93-4416-9f86-365cb4019532"
@@ -13225,175 +13219,6 @@
       "wifeRefs": [
         {
           "ref": "I1832*6c4cbd73-a7c4-4516-8a37-715f2e99a24e"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1834*4aa13ce4-b8c6-4bca-9bb6-acc2a2c21a29"
-        }
-      ],
-      "id": "F792*bf1ddff3-6784-4df9-9ec0-5a7d6831e892",
-      "wifeRefs": [
-        {
-          "ref": "I1818*720190c6-8474-4443-8456-32597a60b838"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1835*ede702f3-1cf2-4f66-a0d7-6f365605953b"
-        }
-      ],
-      "id": "F793*5bcafcb1-82b5-4bb6-bfa5-19011e883847",
-      "wifeRefs": [
-        {
-          "ref": "I1819*de1f69ad-42c3-464b-93b8-68c9b7a43b23"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1836*c608d6a4-fcd3-4e15-8655-cb146e659bb0"
-        }
-      ],
-      "id": "F794*a06cbc4e-b90e-400f-9326-3be6e432201d",
-      "wifeRefs": [
-        {
-          "ref": "I1811*90872ca7-321c-49eb-a490-d11feaca47be"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1837*e87f6c55-dd7e-407f-ad76-ec0576ba6d82"
-        }
-      ],
-      "id": "F795*16c68a90-a2a4-4c47-911c-e18c04c9ab9b",
-      "wifeRefs": [
-        {
-          "ref": "I1812*60c27267-5d53-415c-a73b-98b4052e1d32"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1838*a101ecb8-7ae1-4534-ad96-94f197917d9e"
-        }
-      ],
-      "id": "F796*47809ae2-46fb-493f-b7be-bc2cda387631",
-      "wifeRefs": [
-        {
-          "ref": "I1814*14a69c97-873e-4377-8ab9-07b28121deac"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1839*4953d7a3-30f0-48a0-9dec-e70ef428ce44"
-        }
-      ],
-      "id": "F797*d4e276d4-6eb1-416a-91bd-0d727bf8016e",
-      "wifeRefs": [
-        {
-          "ref": "I1813*0a033da7-c064-4383-a7d4-5f065436bc4f"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1840*3cab0174-db1b-4f68-9b09-e770245485c5"
-        }
-      ],
-      "id": "F798*b4342cac-173a-4c89-8f75-4f719e898b3f",
-      "wifeRefs": [
-        {
-          "ref": "I654*bbc49a76-069d-4372-877b-a32a9f0c8d36"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1841*16afa163-d9d0-47b6-85d0-c6ab5caacf90"
-        }
-      ],
-      "id": "F799*3781ddea-6df0-48ae-82ee-68cc165ef54b",
-      "wifeRefs": [
-        {
-          "ref": "I1820*fa5f9959-9614-4a29-a8c0-933b64da6e45"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1842*a6f033a2-c32f-4beb-80ba-284b4790c421"
-        }
-      ],
-      "id": "F800*4d89bb04-30b2-492b-85f3-57d00a1493ac",
-      "wifeRefs": [
-        {
-          "ref": "I1696*ff73783a-d59b-4dd8-a9c3-8568e6f61551"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1844*d853e986-27ef-473e-9ee2-137fa0846e7a"
-        }
-      ],
-      "id": "F801*f67d1bf8-08a2-4490-9e08-91d4ea3638c0",
-      "wifeRefs": [
-        {
-          "ref": "I1843*42e54ca4-fd49-4174-8717-b96e6afd4291"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1846*7973da33-a684-465b-ad11-c0a94d003752"
-        }
-      ],
-      "id": "F802*fad3d1cb-8eb6-4e1c-814e-d8f9dfe4cdfd",
-      "wifeRefs": [
-        {
-          "ref": "I1845*2fefc13e-edf2-484d-8333-3e0e7b8cdfe6"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1848*8e635b39-c400-40f2-9b83-66ce97323234"
-        }
-      ],
-      "id": "F803*028b774c-f950-4ccc-b11f-a9d545d78241",
-      "wifeRefs": [
-        {
-          "ref": "I1847*cdade835-489d-4382-aeb2-d7d7eb77a193"
-        }
-      ]
-    },
-    {
-      "husbandRefs": [
-        {
-          "ref": "I1849*5dbe1c68-0de7-4672-8fff-44a91d9f07be"
-        }
-      ],
-      "id": "F804*245e6cdb-2386-45a5-bc0f-2103e096e179",
-      "wifeRefs": [
-        {
-          "ref": "I1780*9af22358-5a16-45fa-81c8-e370b2fafeac"
         }
       ]
     }
@@ -27286,11 +27111,6 @@
       "famc": [
         {
           "ref": "F276*ba4458aa-1440-470c-b4a1-98d9d24a9783"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F798*b4342cac-173a-4c89-8f75-4f719e898b3f"
         }
       ],
       "id": "I654*bbc49a76-069d-4372-877b-a32a9f0c8d36",
@@ -48761,11 +48581,6 @@
           "ref": "F745*71231192-ab00-4f2d-911e-50fd5232861f"
         }
       ],
-      "fams": [
-        {
-          "ref": "F800*4d89bb04-30b2-492b-85f3-57d00a1493ac"
-        }
-      ],
       "id": "I1696*ff73783a-d59b-4dd8-a9c3-8568e6f61551",
       "names": [
         {
@@ -50319,11 +50134,6 @@
           "ref": "F773*3e5532ae-3465-4d8e-9414-c08ffeb6e1ac"
         }
       ],
-      "fams": [
-        {
-          "ref": "F804*245e6cdb-2386-45a5-bc0f-2103e096e179"
-        }
-      ],
       "id": "I1780*9af22358-5a16-45fa-81c8-e370b2fafeac",
       "names": [
         {
@@ -50442,6 +50252,25 @@
       "names": [
         {
           "value": "Arlinda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F745*71231192-ab00-4f2d-911e-50fd5232861f"
+        }
+      ],
+      "id": "I1787*02cd3ff7-9ca3-42dd-b128-f56f5a3afa9c",
+      "names": [
+        {
+          "value": "Karsi //"
         }
       ],
       "eventsFacts": [
@@ -50919,11 +50748,6 @@
           "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
         }
       ],
-      "fams": [
-        {
-          "ref": "F794*a06cbc4e-b90e-400f-9326-3be6e432201d"
-        }
-      ],
       "id": "I1811*90872ca7-321c-49eb-a490-d11feaca47be",
       "names": [
         {
@@ -50941,11 +50765,6 @@
       "famc": [
         {
           "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F795*16c68a90-a2a4-4c47-911c-e18c04c9ab9b"
         }
       ],
       "id": "I1812*60c27267-5d53-415c-a73b-98b4052e1d32",
@@ -50967,11 +50786,6 @@
           "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
         }
       ],
-      "fams": [
-        {
-          "ref": "F797*d4e276d4-6eb1-416a-91bd-0d727bf8016e"
-        }
-      ],
       "id": "I1813*0a033da7-c064-4383-a7d4-5f065436bc4f",
       "names": [
         {
@@ -50989,11 +50803,6 @@
       "famc": [
         {
           "ref": "F783*272463d5-32d5-4eb7-addb-5c79aed1df47"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F796*47809ae2-46fb-493f-b7be-bc2cda387631"
         }
       ],
       "id": "I1814*14a69c97-873e-4377-8ab9-07b28121deac",
@@ -51072,11 +50881,6 @@
           "ref": "F268*96221828-2f64-47bf-9bf5-2c8b1da89b22"
         }
       ],
-      "fams": [
-        {
-          "ref": "F792*bf1ddff3-6784-4df9-9ec0-5a7d6831e892"
-        }
-      ],
       "id": "I1818*720190c6-8474-4443-8456-32597a60b838",
       "names": [
         {
@@ -51096,11 +50900,6 @@
           "ref": "F268*96221828-2f64-47bf-9bf5-2c8b1da89b22"
         }
       ],
-      "fams": [
-        {
-          "ref": "F793*5bcafcb1-82b5-4bb6-bfa5-19011e883847"
-        }
-      ],
       "id": "I1819*de1f69ad-42c3-464b-93b8-68c9b7a43b23",
       "names": [
         {
@@ -51118,11 +50917,6 @@
       "famc": [
         {
           "ref": "F254*6ad893fe-fba0-43b9-b59d-f944b9c1c1f1"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F799*3781ddea-6df0-48ae-82ee-68cc165ef54b"
         }
       ],
       "id": "I1820*fa5f9959-9614-4a29-a8c0-933b64da6e45",
@@ -51406,325 +51200,6 @@
       "names": [
         {
           "value": "Tinambuna //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F792*bf1ddff3-6784-4df9-9ec0-5a7d6831e892"
-        }
-      ],
-      "id": "I1834*4aa13ce4-b8c6-4bca-9bb6-acc2a2c21a29",
-      "names": [
-        {
-          "value": "Silalahi //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F793*5bcafcb1-82b5-4bb6-bfa5-19011e883847"
-        }
-      ],
-      "id": "I1835*ede702f3-1cf2-4f66-a0d7-6f365605953b",
-      "names": [
-        {
-          "value": "Naik Sinaga //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F794*a06cbc4e-b90e-400f-9326-3be6e432201d"
-        }
-      ],
-      "id": "I1836*c608d6a4-fcd3-4e15-8655-cb146e659bb0",
-      "names": [
-        {
-          "value": "Lahe Manik //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F795*16c68a90-a2a4-4c47-911c-e18c04c9ab9b"
-        }
-      ],
-      "id": "I1837*e87f6c55-dd7e-407f-ad76-ec0576ba6d82",
-      "names": [
-        {
-          "value": "Kasianus Saragi //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F796*47809ae2-46fb-493f-b7be-bc2cda387631"
-        }
-      ],
-      "id": "I1838*a101ecb8-7ae1-4534-ad96-94f197917d9e",
-      "names": [
-        {
-          "value": "Derik Op.Sunggu //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F797*d4e276d4-6eb1-416a-91bd-0d727bf8016e"
-        }
-      ],
-      "id": "I1839*4953d7a3-30f0-48a0-9dec-e70ef428ce44",
-      "names": [
-        {
-          "value": "Jaendi Manik //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F798*b4342cac-173a-4c89-8f75-4f719e898b3f"
-        }
-      ],
-      "id": "I1840*3cab0174-db1b-4f68-9b09-e770245485c5",
-      "names": [
-        {
-          "value": "Hutapea //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F799*3781ddea-6df0-48ae-82ee-68cc165ef54b"
-        }
-      ],
-      "id": "I1841*16afa163-d9d0-47b6-85d0-c6ab5caacf90",
-      "names": [
-        {
-          "value": "Samosir //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F800*4d89bb04-30b2-492b-85f3-57d00a1493ac"
-        }
-      ],
-      "id": "I1842*a6f033a2-c32f-4beb-80ba-284b4790c421",
-      "names": [
-        {
-          "value": "Napitupulu //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F801*f67d1bf8-08a2-4490-9e08-91d4ea3638c0"
-        }
-      ],
-      "id": "I1843*42e54ca4-fd49-4174-8717-b96e6afd4291",
-      "names": [
-        {
-          "value": "Nan Sebe //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F801*f67d1bf8-08a2-4490-9e08-91d4ea3638c0"
-        }
-      ],
-      "id": "I1844*d853e986-27ef-473e-9ee2-137fa0846e7a",
-      "names": [
-        {
-          "value": "Lbn Siantar //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F802*fad3d1cb-8eb6-4e1c-814e-d8f9dfe4cdfd"
-        }
-      ],
-      "id": "I1845*2fefc13e-edf2-484d-8333-3e0e7b8cdfe6",
-      "names": [
-        {
-          "value": "Nan Sogo //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F802*fad3d1cb-8eb6-4e1c-814e-d8f9dfe4cdfd"
-        }
-      ],
-      "id": "I1846*7973da33-a684-465b-ad11-c0a94d003752",
-      "names": [
-        {
-          "value": "Lbn Siantar //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F738*ab6a8271-3652-4b8f-ad94-2a7a95c73377"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F803*028b774c-f950-4ccc-b11f-a9d545d78241"
-        }
-      ],
-      "id": "I1847*cdade835-489d-4382-aeb2-d7d7eb77a193",
-      "names": [
-        {
-          "value": "Nai Marojahan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F803*028b774c-f950-4ccc-b11f-a9d545d78241"
-        }
-      ],
-      "id": "I1848*8e635b39-c400-40f2-9b83-66ce97323234",
-      "names": [
-        {
-          "value": "Hutagaol //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F804*245e6cdb-2386-45a5-bc0f-2103e096e179"
-        }
-      ],
-      "id": "I1849*5dbe1c68-0de7-4672-8fff-44a91d9f07be",
-      "names": [
-        {
-          "value": "S Pakpahan //"
         }
       ],
       "eventsFacts": [
