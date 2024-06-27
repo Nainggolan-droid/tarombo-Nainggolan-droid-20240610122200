@@ -4655,6 +4655,9 @@
         },
         {
           "ref": "I1830*4ee4855d-5806-432a-be98-861012ca4ab4"
+        },
+        {
+          "ref": "I1832*6c4cbd73-a7c4-4516-8a37-715f2e99a24e"
         }
       ],
       "husbandRefs": [
@@ -51173,6 +51176,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F271*b45fe992-6a46-4654-a1cb-3a856b2962b6"
+        }
+      ],
+      "id": "I1832*6c4cbd73-a7c4-4516-8a37-715f2e99a24e",
+      "names": [
+        {
+          "value": "Nai Frans //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
