@@ -13383,6 +13383,19 @@
           "ref": "I1847*cdade835-489d-4382-aeb2-d7d7eb77a193"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1849*5dbe1c68-0de7-4672-8fff-44a91d9f07be"
+        }
+      ],
+      "id": "F804*245e6cdb-2386-45a5-bc0f-2103e096e179",
+      "wifeRefs": [
+        {
+          "ref": "I1780*9af22358-5a16-45fa-81c8-e370b2fafeac"
+        }
+      ]
     }
   ],
   "head": {
@@ -50306,6 +50319,11 @@
           "ref": "F773*3e5532ae-3465-4d8e-9414-c08ffeb6e1ac"
         }
       ],
+      "fams": [
+        {
+          "ref": "F804*245e6cdb-2386-45a5-bc0f-2103e096e179"
+        }
+      ],
       "id": "I1780*9af22358-5a16-45fa-81c8-e370b2fafeac",
       "names": [
         {
@@ -51688,6 +51706,25 @@
       "names": [
         {
           "value": "Hutagaol //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F804*245e6cdb-2386-45a5-bc0f-2103e096e179"
+        }
+      ],
+      "id": "I1849*5dbe1c68-0de7-4672-8fff-44a91d9f07be",
+      "names": [
+        {
+          "value": "S Pakpahan //"
         }
       ],
       "eventsFacts": [
