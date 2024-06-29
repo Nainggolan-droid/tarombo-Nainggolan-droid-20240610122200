@@ -13253,6 +13253,19 @@
           "ref": "I1835*bfe5c1ac-0e83-4b38-ac71-9d428492b237"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1838*dc67e563-3c7a-4e0b-95d1-0ac0e9c69744"
+        }
+      ],
+      "id": "F794*38366aee-ae85-45af-bacc-a2fc5a4100a2",
+      "wifeRefs": [
+        {
+          "ref": "I1780*9af22358-5a16-45fa-81c8-e370b2fafeac"
+        }
+      ]
     }
   ],
   "head": {
@@ -50166,6 +50179,11 @@
           "ref": "F773*3e5532ae-3465-4d8e-9414-c08ffeb6e1ac"
         }
       ],
+      "fams": [
+        {
+          "ref": "F794*38366aee-ae85-45af-bacc-a2fc5a4100a2"
+        }
+      ],
       "id": "I1780*9af22358-5a16-45fa-81c8-e370b2fafeac",
       "names": [
         {
@@ -51318,6 +51336,25 @@
       "names": [
         {
           "value": "Silitonga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F794*38366aee-ae85-45af-bacc-a2fc5a4100a2"
+        }
+      ],
+      "id": "I1838*dc67e563-3c7a-4e0b-95d1-0ac0e9c69744",
+      "names": [
+        {
+          "value": "Pakpahan //"
         }
       ],
       "eventsFacts": [
