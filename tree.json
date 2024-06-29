@@ -13240,6 +13240,19 @@
           "ref": "I1834*ac68b891-298c-4e0d-b586-a7bd90e48c82"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1837*34c5cb12-0153-4bd1-801c-c628e845da59"
+        }
+      ],
+      "id": "F793*87ff4b02-a379-4ed8-8706-895f340c5d38",
+      "wifeRefs": [
+        {
+          "ref": "I1835*bfe5c1ac-0e83-4b38-ac71-9d428492b237"
+        }
+      ]
     }
   ],
   "head": {
@@ -51258,6 +51271,11 @@
           "ref": "F272*5d8762c0-d276-42e2-a953-e93b0223d483"
         }
       ],
+      "fams": [
+        {
+          "ref": "F793*87ff4b02-a379-4ed8-8706-895f340c5d38"
+        }
+      ],
       "id": "I1835*bfe5c1ac-0e83-4b38-ac71-9d428492b237",
       "names": [
         {
@@ -51281,6 +51299,25 @@
       "names": [
         {
           "value": "Siahaan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F793*87ff4b02-a379-4ed8-8706-895f340c5d38"
+        }
+      ],
+      "id": "I1837*34c5cb12-0153-4bd1-801c-c628e845da59",
+      "names": [
+        {
+          "value": "Silitonga //"
         }
       ],
       "eventsFacts": [
