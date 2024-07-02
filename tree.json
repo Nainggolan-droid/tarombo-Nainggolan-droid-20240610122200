@@ -13279,6 +13279,19 @@
           "ref": "I1744*b95ce2e0-1769-4f76-b7d8-8124ed6c1b38"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1840*115ffd89-24a0-44d2-8bfb-6ed2c02f2516"
+        }
+      ],
+      "id": "F796*cfd39f3b-f431-4368-962b-0f2e4b57e289",
+      "wifeRefs": [
+        {
+          "ref": "I1745*5c84d48a-8f65-425e-b3ba-97b2278dfeeb"
+        }
+      ]
     }
   ],
   "head": {
@@ -49560,6 +49573,11 @@
           "ref": "F760*c05e997a-e04b-4bc1-b349-02c69a36b8b8"
         }
       ],
+      "fams": [
+        {
+          "ref": "F796*cfd39f3b-f431-4368-962b-0f2e4b57e289"
+        }
+      ],
       "id": "I1745*5c84d48a-8f65-425e-b3ba-97b2278dfeeb",
       "names": [
         {
@@ -51398,6 +51416,25 @@
       "names": [
         {
           "value": "Parhusip //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F796*cfd39f3b-f431-4368-962b-0f2e4b57e289"
+        }
+      ],
+      "id": "I1840*115ffd89-24a0-44d2-8bfb-6ed2c02f2516",
+      "names": [
+        {
+          "value": "Simangunsong //"
         }
       ],
       "eventsFacts": [
