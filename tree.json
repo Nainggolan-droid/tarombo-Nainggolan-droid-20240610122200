@@ -13295,6 +13295,19 @@
           "ref": "I1745*5c84d48a-8f65-425e-b3ba-97b2278dfeeb"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1842*570b3f15-3de1-416b-8ed0-d9faf9ed235f"
+        }
+      ],
+      "id": "F797*dff54d75-8e99-4b1d-bda3-0a4c6ed8e646",
+      "wifeRefs": [
+        {
+          "ref": "I1841*c70b1b24-8f41-47c9-9f2a-149b53c1ed37"
+        }
+      ]
     }
   ],
   "head": {
@@ -51453,6 +51466,11 @@
           "ref": "F275*8068b987-3ecd-445c-b192-fa581bb5644b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F797*dff54d75-8e99-4b1d-bda3-0a4c6ed8e646"
+        }
+      ],
       "id": "I1841*c70b1b24-8f41-47c9-9f2a-149b53c1ed37",
       "names": [
         {
@@ -51463,6 +51481,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F797*dff54d75-8e99-4b1d-bda3-0a4c6ed8e646"
+        }
+      ],
+      "id": "I1842*570b3f15-3de1-416b-8ed0-d9faf9ed235f",
+      "names": [
+        {
+          "value": "Sirait //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
