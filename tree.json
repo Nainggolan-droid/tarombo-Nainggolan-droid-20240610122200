@@ -4740,6 +4740,9 @@
         },
         {
           "ref": "I662*5ebabb07-a730-4e3f-957c-fd941206b813"
+        },
+        {
+          "ref": "I1841*c70b1b24-8f41-47c9-9f2a-149b53c1ed37"
         }
       ],
       "husbandRefs": [
@@ -51441,6 +51444,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F275*8068b987-3ecd-445c-b192-fa581bb5644b"
+        }
+      ],
+      "id": "I1841*c70b1b24-8f41-47c9-9f2a-149b53c1ed37",
+      "names": [
+        {
+          "value": "Nai Erikson //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
